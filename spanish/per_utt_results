@@ -1,0 +1,724 @@
+0 ref  OE  N  I  L  L  O  iEO  G  I  GG  A  J  I  J  I  k  JJ  EO  p  O  ***  ***  S  iEO  SS  EO  iO
+0 hyp  OE  N  I  L  L  O  iEO  G  I  GG  A  J  I  J  I  k  JJ  EO  p  O   S   iEO  S  iEO  SS  EO  iO
+0 op    C  C  C  C  C  C   C   C  C   C  C  C  C  C  C  C   C   C  C  C   I    I   C   C    C   C   C
+0 #csid 25 0 2 0
+1 ref  I  EO  M  M  OE  J  EO  Kh  A  Ph  A  N  S  A  R  A  M  I  I  SS  EU  M  iEO  N  EO  N  J  E  D  EU  N  J  I  M  A   L    SS  EU  M  H  E  J  U  S  E  iO
+1 hyp  I  EO  M  M  OE  J  EO  Kh  A  Ph  A  N  S  A  R  A  M  I  I  SS  EU  M  iEO  N  EO  N  J  E  D  EU  N  J  I  M  A  ***  ***   R  M  H  E  J  U  S  E  iO
+1 op   C   C  C  C   C  C   C   C  C   C  C  C  C  C  C  C  C  C  C   C   C  C   C   C   C  C  C  C  C   C  C  C  C  C  C   D    D    S  C  C  C  C  C  C  C   C
+1 #csid 43 1 0 2
+2 ref  G  EU   G   EO  t  DD  O  O  S  I  R  A  G  O  I  p  GG  O  D  A  N  I  N  I
+2 hyp  G  EU  ***  EO  t  DD  O  O  S  I  R  A  G  O  I  p  GG  O  D  A  N  I  N  I
+2 op   C   C   D    C  C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C
+2 #csid 23 0 0 1
+3 ref  D  EO  uEO  iO
+3 hyp  D  EO   EO  iO
+3 op   C   C   S    C
+3 #csid 3 1 0 0
+4 ref   G   A  N  J  A  NG
+4 hyp  ***  A  N  J  A  NG
+4 op    D   C  C  C  C   C
+4 #csid 5 0 0 1
+5 ref  S  I  M  M  A  N  uEO  N  M  A  N  B  I   L   L  iEO  J  U  L  S  U  I  SS  EO  iO
+5 hyp  S  I  M  M  A  N  uEO  N  M  A  N  B  I  ***  L  iEO  J  U  L  S  U  I  SS  EO  iO
+5 op   C  C  C  C  C  C   C   C  C  C  C  C  C   D   C   C   C  C  C  C  C  C   C   C   C
+5 #csid 24 0 0 1
+6 ref  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  H  E   N   N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+6 hyp  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  H  E  ***  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+6 op   C  C  C   C   C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C  C   C  C   C   C   C   C  C  C  C   D   C   C  C  C  C  C  C   C  C  C  C  C  C  C  C   C
+6 #csid 47 0 0 1
+7 ref  O  N  EU  ***  L  G  EU  G  A  G  E  M  U  N  A  N  iEO  R  EO  SS  EO  iO
+7 hyp  O  N  EU   L   L  G  EU  G  A  G  E  M  U  N  A  N  iEO  R  EO  SS  EO  iO
+7 op   C  C   C   I   C  C   C  C  C  C  C  C  C  C  C  C   C   C   C   C   C   C
+7 #csid 21 0 1 0
+8 ref  O  N  EU  L  N  A  L  SS  I  G  A  CHh  A  M  D  A  DD  EU  Th  A  J  I   iO
+8 hyp  O  N  EU  L  N  A  L  SS  I  G  A  CHh  A  M  D  A  DD  EU  Th  A  J  I  ***
+8 op   C  C   C  C  C  C  C   C  C  C  C   C   C  C  C  C   C   C   C  C  C  C   D 
+8 #csid 22 0 0 1
+9 ref  S  E  J  I  k  JJ  A  NG  I  M  A  EU  M  ***  E  D  EU  L  M  iEO  N  J  O  Kh  E  N  N  E  iO
+9 hyp  S  E  J  I  k  JJ  A  NG  I  M  A  EU  M   H   E  D  EU  L  M  iEO  N  J  O  Kh  E  N  N  E  iO
+9 op   C  C  C  C  C   C  C   C  C  C  C   C  C   I   C  C   C  C  C   C   C  C  C   C  C  C  C  C   C
+9 #csid 28 0 1 0
+10 ref  iA  ***   G  U  ***
+10 hyp  iA   k   GG  U   k 
+10 op    C   I    S  C   I 
+10 #csid 2 1 2 0
+11 ref   H   euI  M  A  NG
+11 hyp  ***  euI  N  A   k
+11 op    D    C   S  C   S
+11 #csid 2 2 0 1
+12 ref   M  U  N  euI
+12 hyp  BB  U  L   E 
+12 op    S  C  S   S 
+12 #csid 1 3 0 0
+13 ref   B  U  EO  Kh
+13 hyp  Ph  U  EO  Kh
+13 op    S  C   C   C
+13 #csid 3 1 0 0
+14 ref  G   U  NG  M  I  N
+14 hyp  G  EU  NG  M  I  N
+14 op   C   S   C  C  C  C
+14 #csid 5 1 0 0
+15 ref  J  EO  N  EU  N  J  I  G  EU  M  EU  M  N  iO  S  U  A  G  O  GG  O  CHh  EU  L  S  A  R  EO  G  A  t  DD  A  oA  iA  D  OE  iO
+15 hyp  J  EO  N  EU  N  J  I  G  EU  M  EU  M  N  iO  S  U  A  G  O  GG  O  ***  iO  L  S  A  R  EO  G  A  t  DD  A  oA  iA  D  OE  iO
+15 op   C   C  C   C  C  C  C  C   C  C   C  C  C   C  C  C  C  C  C   C  C   D    S  C  C  C  C   C  C  C  C   C  C   C   C  C   C   C
+15 #csid 36 1 0 1
+16 ref  iEO  G  uEO  N  S  A  J  I  N  EU  L  JJ  I  G  EO  iA  D  OE  N  EU  N  D  E  EO  D  I  E  S  EO  JJ  I  G  EU  M  iEO  N  J  O  EU  L  GG  A  iO
+16 hyp  iEO  G  uEO  N  S  A  S  I  N  EU  L  JJ  I  G  EO  iA  D  OE  N  EU  N  D  E  EO  D  I  E  S  EO  JJ  I  G  EU  M  iEO  N  J  O  EU  L  GG  A  iO
+16 op    C   C   C   C  C  C  S  C  C   C  C   C  C  C   C   C  C   C  C   C  C  C  C   C  C  C  C  C   C   C  C  C   C  C   C   C  C  C   C  C   C  C   C
+16 #csid 42 1 0 0
+17 ref  D  EU  NG  N  O  k  GG  EU  M  E  S  U  EO  M  N  iO  G  A  Ph  O  A  M  D  ***  OE  iO
+17 hyp  D  EU  NG  N  O  k  GG  EU  M  E  S  U  EO  M  N  iO  G  A  Ph  O  A  M  D   OE  OE  iO
+17 op   C   C   C  C  C  C   C   C  C  C  C  C   C  C  C   C  C  C   C  C  C  C  C   I    C   C
+17 #csid 25 0 1 0
+18 ref  Th  OE  G  EU  N  S  I  G  A  N  I  R  A  S  EO  G  I  R  I  M  A  N  I  M  A  Kh  I  N   A   B  oA  ***  iO
+18 hyp  Th  OE  G  EU  N  S  I  G  A  N  I  R  A  S  EO  G  I  R  I  M  A  N  I  M  A  Kh  I  N  ***  B  oA   A   iO
+18 op    C   C  C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C   C  C  C   D   C   C   I    C
+18 #csid 31 0 1 1
+19 ref  B  iEO  G  E  J  ***  A  L  B  U  Th  EO  I  t  DD  O  R  O  k  J  A  L  B  U  Th  I  S  E  iO
+19 hyp  B  iEO  G  E  J   A   A  L  B  U  Th  EO  I  t  DD  O  R  O  k  J  A  L  B  U  Th  I  S  E  iO
+19 op   C   C   C  C  C   I   C  C  C  C   C   C  C  C   C  C  C  C  C  C  C  C  C  C   C  C  C  C   C
+19 #csid 28 0 1 0
+20 ref  B  A  L  Ph  iEO  N  ***  A  N  U  N  D  O  NG  H  oA  R  EU  L  S  I  N  G  O  O  S  E  iO
+20 hyp  B  A  L  Ph  iEO  N   H   A  N  U  N  D  O  NG  H  oA  R  EU  L  S  I  N  G  O  O  S  E  iO
+20 op   C  C  C   C   C   C   I   C  C  C  C  C  C   C  C   C  C   C  C  C  C  C  C  C  C  C  C   C
+20 #csid 27 0 1 0
+21 ref  A  B  EO  J  I  oA  EO  M  EO  N  I  J  U  NG  E  S  EO  N  U  G  U  ***  A  G  O  D  A  L  M  A  SS  EO  iO
+21 hyp  A  B  EO  J  I  oA  EO  M  EO  N  I  J  U  NG  E  S  EO  N  U  G  U   G   A  G  O  D  A  L  M  A  SS  EO  iO
+21 op   C  C   C  C  C   C   C  C   C  C  C  C  C   C  C  C   C  C  C  C  C   I   C  C  C  C  C  C  C  C   C   C   C
+21 #csid 32 0 1 0
+22 ref  J  EO  euI  B  E  Kh  oA  J  EO  M  EU  L  CHh  ***  A  J  A  J  U  S  iEO  S  EO  G  A  M  S  A  A  M  N  I  D  A
+22 hyp  J  EO  euI  B  E  Kh  oA  J  EO  M  EU  L  CHh   I   A  J  A  J  U  S  iEO  S  EO  G  A  M  S  A  A  M  N  I  D  A
+22 op   C   C   C   C  C   C   C  C   C  C   C  C   C    I   C  C  C  C  C  C   C   C   C  C  C  C  C  C  C  C  C  C  C  C
+22 #csid 33 0 1 0
+23 ref  J  OE  S  O  NG  H  A  J  I  M  A  N  M  O  Th  A  G  E  ***  S  SS  EU  M  N  I  D  A
+23 hyp  J  OE  S  O  NG  H  A  J  I  M  A  N  M  O  Th  A  G  E   S   S  SS  EU  M  N  I  D  A
+23 op   C   C  C  C   C  C  C  C  C  C  C  C  C  C   C  C  C  C   I   C   C   C  C  C  C  C  C
+23 #csid 26 0 1 0
+24 ref  N  E  I  R  N   EU   J   EU  S  I  M  iEO  N  A  N  D  OE  M  N  I  D  A
+24 hyp  N  E  I  R  N  ***  ***  EU  S  I  M  iEO  N  A  N  D  OE  M  N  I  D  A
+24 op   C  C  C  C  C   D    D    C  C  C  C   C   C  C  C  C   C  C  C  C  C  C
+24 #csid 20 0 0 2
+25 ref  I  B  EO  N  E  N  J  EO  L  D  E  R  O  S  I  L  S  U  A  J  I  A  N  EU  ***  L  G  EO  iA
+25 hyp  I  B  EO  N  E  N  J  EO  L  D  E  R  O  S  I  L  S  U  A  S  I  A  N  EU   L   L  G  EO  iA
+25 op   C  C   C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C  S  C  C  C   C   I   C  C   C   C
+25 #csid 27 1 1 0
+26 ref  S  U  EO  M  A  J  I  k  A  N  GG  EU  N  N  A  ***  ***  ***  SS  EU  L  G  EO  L
+26 hyp  S  U  EO  M  A  J  I  k  A  N  GG  EU  N  N  A   N    EU   N    N  EU  L  G  EO  L
+26 op   C  C   C  C  C  C  C  C  C  C   C   C  C  C  C   I    I    I    S   C  C  C   C  C
+26 #csid 20 1 3 0
+27 ref  S  I  NG  S  I   NG  H  A  D  A
+27 hyp  S  I  NG  S  I  ***  H  A  D  A
+27 op   C  C   C  C  C   D   C  C  C  C
+27 #csid 9 0 0 1
+28 ref  J   I  D  A
+28 hyp  S  UI  D  A
+28 op   S   S  C  C
+28 #csid 2 2 0 0
+29 ref  J  A  R  I
+29 hyp  S  A  R  I
+29 op   S  C  C  C
+29 #csid 3 1 0 0
+30 ref  ***  EU  N  E  NG
+30 hyp   B    A  N  A  NG
+30 op    I    S  C  S   C
+30 #csid 2 2 1 0
+31 ref  iA  ***  G  U
+31 hyp  iA   k   G  U
+31 op    C   I   C  C
+31 #csid 3 0 1 0
+32 ref  S  I  J  A  NG  E
+32 hyp  S  I  S  A   N  E
+32 op   C  C  S  C   S  C
+32 #csid 4 2 0 0
+33 ref  G   U   NG  N  I
+33 hyp  G  iEO   M  G  I
+33 op   C   S    S  S  C
+33 #csid 2 3 0 0
+34 ref  B  I  CHh  EU  L  ***
+34 hyp  B  I  CHh  EU  L   EU
+34 op   C  C   C    C  C   I 
+34 #csid 5 0 1 0
+35 ref  B  A  GG  EU  N  ***
+35 hyp  B  A  Th   I  N   E 
+35 op   C  C   S   S  C   I 
+35 #csid 3 2 1 0
+36 ref  S  I  N  N  E
+36 hyp  S  I  N  G  E
+36 op   C  C  C  S  C
+36 #csid 4 1 0 0
+37 ref  N  EO  ***  EO  iO
+37 hyp  N  EO   J   EO  iO
+37 op   C   C   I    C   C
+37 #csid 4 0 1 0
+38 ref  EO  L  G  U  L  B  O  N  I  N  EO  M  U  S  EU  N  A  N  J  O  EU  N  I   L   I  t  GG  U  N  A
+38 hyp  EO  L  G  U  L  B  O  N  I  N  EO  M  U  S  EU  N  A  N  J  O  EU  N  I  ***  I  t  GG  U  N  A
+38 op    C  C  C  C  C  C  C  C  C  C   C  C  C  C   C  C  C  C  C  C   C  C  C   D   C  C   C  C  C  C
+38 #csid 29 0 0 1
+39 ref  G  U  ***  NG  N  E  S  EO  N  G  O  NG  H  A  NG  G  oA  G  U  k  JJ  E  S  EO  N  G  O  NG  H  A  NG  I  D  A  R  EU  D  A  N  EU  N  G  EO  S  EU  L  OE  M  I  R  I  M  A  L  SS  EU  M  H  E  J  U  S  I  J  I  A  N  EU  S  iEO  SS  EO  iO
+39 hyp  G  U   NG  NG  N  E  S  EO  N  G  O  NG  H  A  NG  G  oA  G  U  k  JJ  E  S  EO  N  G  O  NG  H  A  NG  I  D  A  R  EU  D  A  N  EU  N  G  EO  S  EU  L  OE  M  I  R  I  M  A  L  SS  EU  M  H  E  J  U  S  I  J  I  A  N  EU  S  iEO  SS  EO  iO
+39 op   C  C   I    C  C  C  C   C  C  C  C   C  C  C   C  C   C  C  C  C   C  C  C   C  C  C  C   C  C  C   C  C  C  C  C   C  C  C  C   C  C  C   C  C   C  C   C  C  C  C  C  C  C  C   C   C  C  C  C  C  C  C  C  C  C  C  C   C  C   C    C   C   C
+39 #csid 72 0 1 0
+40 ref  G  EU  R  EO  Kh  E  H  I  M  D  EU  N  I  R  EU   L   N  U  G  A  A  G  E  SS  EO  iO
+40 hyp  G  EU  R  EO  Kh  E  H  I  M  D  EU  N  I  R  EU  ***  N  U  G  A  A  G  E  SS  EO  iO
+40 op   C   C  C   C   C  C  C  C  C  C   C  C  C  C   C   D   C  C  C  C  C  C  C   C   C   C
+40 #csid 25 0 0 1
+41 ref  B  U  B  U
+41 hyp  M  U  B  U
+41 op   S  C  C  C
+41 #csid 3 1 0 0
+42 ref  OE  H  A  NG  S  A  NG  EO  N  N  I  ***  iO  NG  D  O  N  EU  N  M  A  N  Kh  O  N  E  iO  NG  D  O  N  EU  N  J  O  G  EU  M  I  J  I
+42 hyp  OE  H  A  NG  S  A  NG  EO  N  N  I   J   iO  NG  D  O  N  EU  N  M  A  N  Kh  O  N  E  iO  NG  D  O  N  EU  N  J  O  G  EU  M  I  J  I
+42 op    C  C  C   C  C  C   C   C  C  C  C   I    C   C  C  C  C   C  C  C  C  C   C  C  C  C   C   C  C  C  C   C  C  C  C  C   C  C  C  C  C
+42 #csid 40 0 1 0
+43 ref  B  U  B  U
+43 hyp  D  U  B  U
+43 op   S  C  C  C
+43 #csid 3 1 0 0
+44 ref   M  U  R  I
+44 hyp  BB  U  R  I
+44 op    S  C  C  C
+44 #csid 3 1 0 0
+45 ref  G  EU  ***  M  iO  I  R  I  J  O  A  iO  I  ***  R  iO  I  R  I  J  O  A  iO
+45 hyp  G  EU   M   M  iO  I  R  I  J  O  A  iO  I   R   R  iO  I  R  I  J  O  A  iO
+45 op   C   C   I   C   C  C  C  C  C  C  C   C  C   I   C   C  C  C  C  C  C  C   C
+45 #csid 21 0 2 0
+46 ref  I  L  N  iEO  N  J  EO  N  ***  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  H  E  N  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+46 hyp  I  L  N  iEO  N  J  EO  N   E   U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  H  E  N  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+46 op   C  C  C   C   C  C   C  C   I   C  C  C  C  C  C  C  C  C  C   C  C  C  C   C  C   C   C   C   C  C  C  C  C  C   C  C  C  C  C  C   C  C  C  C  C  C  C  C   C
+46 #csid 48 0 1 0
+47 ref  B  ***  iEO  G  E  J  A  L  B  U  Th  EO  I  t  DD  O  R  O  k  J  A  L  B  U  Th  I  S  E  iO
+47 hyp  B  iEO  iEO  G  E  J  A  L  B  U  Th  EO  I  t  DD  O  R  O  k  J  A  L  B  U  Th  I  S  E  iO
+47 op   C   I    C   C  C  C  C  C  C  C   C   C  C  C   C  C  C  C  C  C  C  C  C  C   C  C  C  C   C
+47 #csid 28 0 1 0
+48 ref  J  U  M  A  R  E  B  iEO  R  I  ***  N  EO  p  SS  EU  M  iEO  N  U  R  I  J  I  B  E  oA  S  EO  B  A  p  G  A  Th  I  M  EO  G  EO  iO
+48 hyp  J  U  M  A  R  E  B  iEO  R  I   N   N  EO  p  SS  EU  M  iEO  N  U  R  I  J  I  B  E  oA  S  EO  B  A  p  G  A  Th  I  M  EO  G  EO  iO
+48 op   C  C  C  C  C  C  C   C   C  C   I   C   C  C   C   C  C   C   C  C  C  C  C  C  C  C   C  C   C  C  C  C  C  C   C  C  C   C  C   C   C
+48 #csid 40 0 1 0
+49 ref  I  B  EO  N  E  ***  N  J  EO  L  D  E  R  O  S  I  L  S  U  A  J  I  A  N  EU  L  G  EO  iA
+49 hyp  I  B  EO  N  E   N   N  J  EO  L  D  E  R  O  S  I  L  S  U  A  J  I  A  N  EU  L  G  EO  iA
+49 op   C  C   C  C  C   I   C  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C  C   C   C
+49 #csid 28 0 1 0
+50 ref  M  U  R  EU  p
+50 hyp  M  U  R  EU  k
+50 op   C  C  C   C  S
+50 #csid 4 1 0 0
+51 ref  G  EU   Ph  A  D  A
+51 hyp  H  EU  ***  A  D  A
+51 op   S   C   D   C  C  C
+51 #csid 4 1 0 1
+52 ref  euI  S  A  S  O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R   H   A  G  I  oA  SS  EU  G  I  G  A  Th  EU  N  Ph  iO  iEO  N  G  I  N  EU  NG  ***  I  D  EO  J  U  NG  iO  A  L  GG  A  D  EU   t   GG  I  oA  I  k  GG  I  G  A  Th  EU  N  G  I  N   EU  NG  I  D  EO  J  U  NG  iO   A    L    GG  A  N  A  N  EU  N  I  E  iEO  NG  iEO   G  I  D  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I  D   EU   t  GG  I   G   A  G  I  B  O  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N  I  euI  M  A  R  EU  L  D  EU   t   GG  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S  O  Th  O  NG  EU  L   G   iE  S  O  Kh  A  L  S  U  I   t   GG  I  D  E  M  U  N  I  D  A  D  A  R  A  S  EO  J  I  N  J  EO  NG   H    A  N  euI  S  A  S  O  Th  O  NG  EU  N   D    EU   t  GG  I  E  S  EO   B    U   Th   EO  S  I  J  A  Kh  A   N   D  A   G    O   J  U  J  A   NG  H  A  G  O  S  I  p  DD  A
+52 hyp  euI  S  A  S  O  Th  O   N  H  oA  J  EO   N  J  U  NG  E  S  EO  M  A  R  ***  A  G  I  oA  SS  EU  R  I  G  A  Th  EU  N  Ph   E  iEO  N  G  I  R   A  NG   EU  L  D  EO  J  U  NG  iO  A  L  GG  A  D  EU  ***   G  I  oA  I  N   J  I  G  A  Th  EU  N  G  I  N  ***  NG  I  D  EO  J  U  NG  iO  ***  ***  ***  A  G  A  N  EU  N  I  E   EO   M   NG  EU  L  D  EO  J  U  NG  iO  A  G  O   D  EU  Kh  I  D  ***  EO  GG  I  ***  A  G  I  B  U  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N  I  euI  M  A  R  EU  L  D  EU  ***   G  O  G   U  M  A  R  EU  L  I  E  E  iA  euI  S  A  S  O  Th  O  NG  EU  L  ***   E  S  O  Kh  A  L  S  U  I  ***  GG  I  D  E  M  U  N  I  D  A  D  A  R  A  S  EO  S  I  N  J   A  NG  ***  EU  N  euI  S  A  S  O  Th  O  NG  EU  N  ***  ***  EO  GG  I  E  S  EO  ***  ***  Th  ***  S  I  J  A  Kh  A  ***  D  A  ***  ***  J  U  J  A  ***  N  A  G  O  S  I  p  DD  A
+52 op    C   C  C  C  C   C  C   S  S   C  C   C   S  C  C   C  C  C   C  C  C  C   D   C  C  C   C   C   C  S  C  C  C   C   C  C   C   S   C   C  C  C  S   S   C   I   S  C   C  C  C   C   C  C  C   C  C  C   C   D    S  C   C  C  S   S  C  C  C   C   C  C  C  C  C   D    C  C  C   C  C  C   C   C   D    D    D   C  S  C  C   C  C  C  C   S    S   S    S  S  C   C  C  C   C   C  C  C  C   S   C   C  C  C   D    S   C  C   D   C  C  C  C  S  C  C  C  C  C  C  C  C   C  C  C   C  C  C  C  C  C  C  C   C  C  C   C   C  C  C   C  C  C   C   D    S  C  C   S  C  C  C   C  C  C  C  C   C   C   C  C  C  C   C  C   C   C  C   D    S  C  C   C  C  C  C  C  C   D    C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  S  C  C  C   S   C   D    S  C   C   C  C  C  C   C  C   C   C  C   D    D    S   C  C  C  C   C   D    D    C   D   C  C  C  C   C  C   D   C  C   D    D   C  C  C  C   D   S  C  C  C  C  C  C   C  C
+52 #csid 211 28 1 21
+53 ref  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A   R   A  NG  H  A  N  D  A   iE  J  EO  N  U  R  I  iU  CHh  I  uEO  N  S  EO  N  S  E  NG  N  I  M  I  J  U  S  I   N    S    E    k   JJ   O  NG   I    G    A    Th   EU   N  BB  A  L  G  A  N   S   E  k   B    O   R   A    S    E   k   J   A  J  U   S    E    k    N    O    k   SS   E    k   I  R  EO  N  S  E  k  GG  A  R  EU  L   N    A    N    EU   N   J  O   A   A  N  D   A    N   A   N    EU   N   U  R  I  N  A  R  A  G  A  EU  L   H   A  N   EU   R   EU  L  S  A   R   A  NG   H   A  N  D   A    N   A   N    EU   N    O   R  E  D  OE  N   G  A  G   U   euI  S  E  G  EU  L  J  O  A  A  N  D  A   N   EU   L   G   EO  G   A    N    EU  N   H   A   k    JJ  A  euI  H  euI   GG   EU   Th  euI  GG  EU  Th  A  N  M  EO  R   I   Kh  A  R  A  G  EU  R  J  O  A  A  N  D   A    N   A   N    EU  N  I  R  EU  N  A  CHh  I  M  euI  S  E  S   O    R    I  R  EU  L  J  O   A   A  M  iEO  B   O  M  S  I   N    E    N   M   U  L   H   EU  R   EU   N    EU   N   S   O    R    I  R   EU  L  J  EU   L   G  I  N   D    A   G   A  L  D   E   E  B   U    N   EU  N  B  A  R  A  M  S   O  R  I  R  EU  L  J  O  A  A  M  iEO  ***  B  A  D  A  euI  Ph   A    D    O   S   O    R    I  R  EU  L  D  EU  R   EU  M  iEO   N    A    J    I    k   DD   O   G   A    S    EU   M    I    DD   UI   N    D    A 
+53 hyp  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A  ***  A  NG  H  A  N  D  A  ***  J  EO  N  U  R  I   I   J   I   EO  N  S  EO  N  S  E  NG  N  I  M  I  J  U  S  I  ***  ***  ***  ***   J  EO  NG  ***  ***  ***  ***  ***  DD  BB  A  L  G  A  N  ***  E  k  ***  ***  R  ***  ***  ***  k  ***  A  J  U  ***  ***  ***  ***  ***  ***  SS  ***  ***  I  R  EO  N  S  E  k  DD  A  R  EU  L  ***  ***  ***  ***  ***  J  O  ***  A  N  D  ***  ***  A  ***  ***  ***  U  R  I  N  A  R  A  G  A  EU  L  ***  A  N  ***  ***  EU  L  S  A  ***  A  NG  ***  A  N  D  ***  ***  A  ***  ***  ***  ***  R  E  D  EU  N  Kh  A  G  ***  ***  S  E  G  EU  L  J  O  A  A  N  D  A  ***  EU  ***  G  ***  G  ***  ***  ***  N  ***  A  ***  ***  A  euI  H  ***  ***  ***  ***   G    G  EU  Th  A  N  M  EO  R  ***   G  A  R  A  G  EU  L  J  O  A  A  N  D  ***  ***  A  ***  ***  N  I  R  EU  L  A  CHh  I  M   EU  S  E  S  ***  ***  EO  R  EU  L  J  O  ***  A  M  iEO  B  EO  M  S  I  ***  ***  ***  M  EU  L  ***  EU  R  ***  ***  ***  ***  S  ***  ***  EO  R  ***  L  J  EU  ***  G  I  N  ***  ***  G  EU  L  D  ***  E  B  ***  ***   O  N  B  A  R  A  M  S  EO  R  E  R  EU  L  J  O  A  A  M  iEO   N   B  A  D  A   L   Ph  ***  ***  ***  S  ***  ***  EO  R  EU  L  D  EU  R  ***  M  iEO  ***  ***  ***  ***  ***  DD  ***  G  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***
+53 op   C  C  C   C  C  C  C   C  C  C  C  C  C  C  C  C   C  C  C  C   D   C   C  C  C  C  C  C   D   C   C  C  C  C  C   S   S   C   S   C  C   C  C  C  C   C  C  C  C  C  C  C  C  C   D    D    D    D    S   S   C   D    D    D    D    D    S   C  C  C  C  C  C   D   C  C   D    D   C   D    D    D   C   D   C  C  C   D    D    D    D    D    D    C   D    D   C  C   C  C  C  C  C   S  C  C   C  C   D    D    D    D    D   C  C   D   C  C  C   D    D   C   D    D    D   C  C  C  C  C  C  C  C  C   C  C   D   C  C   D    D    C  C  C  C   D   C   C   D   C  C  C   D    D   C   D    D    D    D   C  C  C   S  C   S  C  C   D    D   C  C  C   C  C  C  C  C  C  C  C  C   D    C   D   C   D   C   D    D    D   C   D   C   D    D   C   C   C   D    D    D    D    S    S   C   C  C  C  C   C  C   D    S  C  C  C  C   C  S  C  C  C  C  C  C   D    D   C   D    D   C  C  C   C  S  C   C   C  C   S   C  C  C   D    D    S  C   C  C  C  C   D   C  C   C   C   S  C  C  C   D    D    D   C   S  C   D    C  C   D    D    D    D   C   D    D    S  C   D   C  C   C   D   C  C  C   D    D   C   S  C  C   D   C  C   D    D    S  C  C  C  C  C  C  C   S  C  S  C   C  C  C  C  C  C  C   C    I   C  C  C  C   S    C   D    D    D   C   D    D    S  C   C  C  C   C  C   D   C   C    D    D    D    D    D    C   D   C   D    D    D    D    D    D    D    D    D    D 
+53 #csid 222 25 1 110
+54 ref  I  G  E  D  A  N  I  CHh  E  G  I  M   I   iA
+54 hyp  I  G  E  D  A  N  I  CHh  E  G  I  M  ***  iA
+54 op   C  C  C  C  C  C  C   C   C  C  C  C   D    C
+54 #csid 13 0 0 1
+55 ref  Ph  U   L 
+55 hyp  Ph  U  ***
+55 op    C  C   D 
+55 #csid 2 0 0 1
+56 ref  B  U  B  U
+56 hyp  D  U  B  U
+56 op   S  C  C  C
+56 #csid 3 1 0 0
+57 ref  A  N  N  iEO  NG  H  A  S  E  ***  iO  iEO  R  EO  B  U  N  J  EO  N  EU  N   J    U    L   L  I   A  NG  I  R  A  G  O  H  A  M  N  I  D  A  Ph  EU  R  A  NG  S  EU  E  S  EO  oA  S  SS  EU  M  N  I  D  A  J  EO  N  EU  N  A  N  G  U  G  EU  M  S  I  k  GG  oA  A  N  G  U  G  M  U  N  oA  E  G  oA  N  S  I  M  I  I  S  SS  EU  M  N  I  D  A  G  O  iA  NG  E  S  EO  N  EU  N  H  O  N  J  A  H  A  N  G  U  G  EO  R  EU  L  G  O  NG  B  U  E  S  SS  EU  M  N  I  D  A  A  J  I  k   H   A  N  G  U  G  EO  R  EU  L  J  A  L  M  O  Th  A  J  I  M  A  N  A  N  G  U  G  S  E  NG  H  oA  R  I  J  E  M   I   I  SS  EU  L  G  EO  t  G  A  t  SS  EU  M  N  I  D  A  iEO  R  EO  B  U  N  G  oA  G  A  Th  I  G  O  NG  B  U  A  G  E  D  OE  EO  J  EO  NG  M  A  L  G  I  BB  EU  M  N  I  D  A
+57 hyp  A  N  N  iEO  NG  H  A  S  E   A    J   EO  R  EO  B  O  N  J  EO  N  EU  N  ***  ***  iEO  L  N  iA  NG  I  R  A  G  O  H  A  M  N  I  D  A  Ph  EU  R  E  NG  S  EU  E  S  EO  oA  S  SS  EU  M  N  I  D  A  J  EO  N  EU  N  A  N  G  U  G  EU  M  S  I  k  GG  oA  A  N  G  U  G  M  U  N  oA  E  G  oA  N  S  I  M  I  I  S  SS  EU  M  N  I  D  A  G  O  iA  NG  E  S  EO  N  EU  N  H  O  N  J  A  H  A  N  G  U  G  EO  R  EU  L  G  O  NG  B  U  E  S  SS  EU  M  N  I  D  A  A  J  I  k  ***  A  N  G  U  G  EO  R  EU  L  J  A  L  M  O  Th  A  J  I  M  A  N  A  N  G  U  G  S  E  NG  H  oA  R  I  J  E  M  ***  I  SS  EU  L  G  EO  t  G  A  t  SS  EU  M  N  I  D  A  iEO  R  EO  B  U  N  G  oA  G  A  Th  I  G  O  NG  B  U  A  G  E  D  OE  EO  J  EO  NG  M  A  L  G  I  BB  EU  M  N  I  D  A
+57 op   C  C  C   C    C  C  C  C  C   I    S   S   C   C  C  S  C  C   C  C   C  C   D    D    S   C  S   S   C  C  C  C  C  C  C  C  C  C  C  C  C   C   C  C  S   C  C   C  C  C   C   C  C   C   C  C  C  C  C  C  C   C  C   C  C  C  C  C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C  C   C  C  C   C  C  C  C  C  C  C  C   C   C  C  C  C  C  C  C  C   C   C  C  C   C  C   C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   C  C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C  C  C   D   C  C  C  C  C   C  C   C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   C  C  C  C  C  C   D   C   C   C  C  C   C  C  C  C  C   C   C  C  C  C  C  C   C   C   C  C  C  C  C   C  C  C   C  C  C  C   C  C  C  C  C  C  C   C   C  C   C   C  C  C  C  C  C   C   C  C  C  C  C  C
+57 #csid 227 7 1 4
+58 ref  O  N  EU  R  EU  N  H  A  N  G  U  G  EO  S  U  EO  B  I  I  SS  EO  iO  S  U  EO  B  EU  N  O  J  EO  N  A  O  p  S  I  E  S  I  J  A  Kh  E  iO  J  I  B  E  S  EO  H  A   k   GG  iO  GG  A  J  I  S  A  M  S  I  p  B  U  N  I  G  EO  L  L  iEO  iO  I   L   G  O  p  S  I  E  I  R  EO  N  A  S  EO  A  CHh  I  M   EU  L  M  EO  G  EO  SS  EO   iO  iEO  D  EO  L  B  S  I  E  J  I  B  E  S  EO  N  A  G  A  SS   EO  iO  J  I  A  CHh  EO  R  iEO  G  E  D  O  CHh  A  Kh  E  SS  EO  iO  G  EU  R  EO  N  D  E  J  I  G  A  B  I  EO  p  SS  EO  SS  EO  iO  D  A  S  I  J  I  B  E  G  A  SS  EO  iO  CHh  E  k  SS  A   NG  UI   E  J  I  G  A  B  I  I  SS  EO  SS  EO  iO  J  I  A  CHh  EO   R   iEO  k  GG  A  J  I  DD  UI  EO  S  EO  G  A   SS  EO  iO  H  A  k  GG  iO  E  iEO  D  EO  L  B  S  I  O  ***  S  I  M  O  B   U  N  E  D  O  CHh  A  Kh  E  SS  EO  iO  S  U  EO  B  E  A   N   N  EU  J  EO  t  JJ  I  M  A  N  J  EO  NG  M  A  L  H  I  M  D  EU  R  EO  SS  EO  iO
+58 hyp  O  N  EU  R  EU  N  H  A  N  G  U  G  EO  S  U  EO  B  I  I  SS  EO  iO  S  U  EO  B   U  N  O  J  EO  N  A  O  p  S  I  E  S  I  J  A  Kh  E  iO  J  I  B  E  S  EO  H  A  ***  GG  iO  GG  A  J  I  S  A  M  S  I  p  B  U  N  I  G  EO  L  L  iEO  iO  I  ***  G  O  p  S  I  E  I  R  EO  N  A  S  EO  A  CHh  I  M  ***  E  M  EO  G  EO  SS  EO  ***  iEO  D  EO  L  B  S  I  E  J  I  B  E  S  EO  N  A  G  A  SS  ***  iO  J  I  A  CHh  EO  R  iEO  G  E  D  O  CHh  A  Kh  E  SS  EO  iO  G  EU  R  EO  N  D  E  J  I  G  A  B  I  EO  p  SS  EO  SS  EO  iO  D  A  S  I  J  I  B  E  G  A   S  EO  iO   J   E  k  SS  A  ***   N  OE  J  I  G  A  B  I  I  SS  EO  SS  EO  iO  J  I  A  CHh  EO  ***  iEO  k  GG  A  J  I   D  OE  EO  S  EO  G  A  ***  EO  iO  H  A  k  GG  iO  E  iEO  D  EO  L  B  S  I  O   p   S  I  B  O  B  EO  N  E  D  O  CHh  A  Kh  E  SS  EO  iO  S  U  EO  B  E  A  ***  N  EU  J  EO  t  JJ  I  M  A  N  J  EO  NG  M  A  L  H  I  M  D  EU  R  EO  SS  EO  iO
+58 op   C  C   C  C   C  C  C  C  C  C  C  C   C  C  C   C  C  C  C   C   C   C  C  C   C  C   S  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C   C  C  C  C  C  C   C  C  C   D    C   C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C  C   C    C  C   D   C  C  C  C  C  C  C  C   C  C  C  C   C  C   C   C  C   D   S  C   C  C   C   C   C   D    C   C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C   C   D    C  C  C  C   C    C  C   C   C  C  C  C   C   C   C  C   C   C   C  C   C  C   C  C  C  C  C  C  C  C  C  C   C  C   C   C   C   C   C  C  C  C  C  C  C  C  C  C  C   S   C   C   S   C  C   C  C   D    S   S  C  C  C  C  C  C  C   C   C   C   C   C  C  C  C   C    C   D    C   C   C  C  C  C   S   S   C  C   C  C  C   D    C   C  C  C  C   C   C  C   C   C   C  C  C  C  C  C   I   C  C  S  C  C   S  C  C  C  C   C   C   C  C   C   C   C  C  C   C  C  C  C   D   C   C  C   C  C   C  C  C  C  C  C   C   C  C  C  C  C  C  C  C   C  C   C   C   C   C
+58 #csid 263 10 1 9
+59 ref  iEO  G  I  B  I  B  I  M  B  A   p   H  A  N  G  EU  R  EU  S  G  A  t  DD  A  J  U  S  E  iO
+59 hyp  iEO  G  I  B  I  B  I  M  B  A  ***  H  A  N  G  EU  R  EU  S  G  A  t  DD  A  J  U  S  E  iO
+59 op    C   C  C  C  C  C  C  C  C  C   D   C  C  C  C   C  C   C  C  C  C  C   C  C  C  C  C  C   C
+59 #csid 28 0 0 1
+60 ref  G  EU  M  iO   I    R   I  J  O  A  iO  I  R  iO   I    R   I  J  O  A  iO
+60 hyp  G  EU  M  iO  ***  ***  I  J  O  A  iO  I  R  iO  ***  ***  I  J  O  A  iO
+60 op   C   C  C   C   D    D   C  C  C  C   C  C  C   C   D    D   C  C  C  C   C
+60 #csid 17 0 0 4
+61 ref  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  ***  H  E  N  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+61 hyp  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E   H   H  E  N  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+61 op   C  C  C   C   C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C  C   C  C   C   C   C   C  C   I   C  C  C  C   C  C  C  C  C  C   C  C  C  C  C  C  C  C   C
+61 #csid 48 0 1 0
+62 ref  B  ***  iEO  G  E  J  A  L  B  U  Th  EO  I  t  DD  O  R  O  k  J  A  L  B  U  Th  I  S  E  iO
+62 hyp  B  iEO  iEO  G  E  J  A  L  B  U  Th  EO  I  t  DD  O  R  O  k  J  A  L  B  U  Th  I  S  E  iO
+62 op   C   I    C   C  C  C  C  C  C  C   C   C  C  C   C  C  C  C  C  C  C  C  C  C   C  C  C  C   C
+62 #csid 28 0 1 0
+63 ref  S  U  EO  M  ***  A  J  I  k  A  N  GG  EU  N  N  A  SS  EU  L  G  EO  L
+63 hyp  S  U  EO  M   N   A  J  I  k  A  N  GG  EU  N  N  A  SS  EU  L  G  EO  L
+63 op   C  C   C  C   I   C  C  C  C  C  C   C   C  C  C  C   C   C  C  C   C  C
+63 #csid 21 0 1 0
+64 ref  euI  S  A  S  O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  G  I  G  A  Th  EU  N   Ph   iO  iEO  N  G  I  N  EU  NG  I   D   EO  J  U  NG  iO  ***  A  L  GG  A   D  EU   t   GG  I  oA  I  k  GG  I  G  A  Th  EU  N  G  I  N  EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  N  A  N  EU  N  I  E  ***  iEO  NG  iEO  G  I  D  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I  D  EU   t   GG  I  G  A  G  I  B   O  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N  I  euI  M   A  R  EU  L  D  EU  t  GG  O  G  EU  M  A  R  EU  L  I  E  ***  E  iA  euI  S  A  S  O  Th  O  NG  EU  L  G  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  U  N  I  D  A  D  A  R  A  S  EO  J  I   N  J  EO  NG  H  A  N  euI  S  A  S  O  Th  O  NG  EU  N   D  EU   t   GG  I   E   S  EO  B  U  Th  EO  S  I  J  A   Kh  A   N   D  A  G  O  J  U  J  A  NG  H  A  G  O  S  I  p  DD  A
+64 hyp  euI  S  A  S  O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  D  I  G  A  Th  EU  N  ***  iEO  iEO  N  G  I  N  EU  NG  I  ***  EO  J  U  NG  iO   H   A  L  GG  A  Th  EU  ***  Kh  I  oA  I  N   G  I  G  A  Th  EU  N  G  I  N  EU  NG  I  D  EO  J  U  iO   H  A  L  GG  A  D  A  N  EU  N  I  E  euI  iEO   N  iEO  G  I  D  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I  D  EU  ***  GG  I  G  A  G  I  B  EO  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N  I  euI  M  oA  R  EU  L  D  EU  t  GG  O  G  EU  M  A  R  EU  L  I  E   H   E  iA  euI  S  A  S  O  Th  O  NG  EU  L  G  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  U  N  I  D  A  D  A  R  A  S  EO  J  E  NG  J   U  NG  H  A  N  euI  S  A  S  O  Th  O  NG  EU  N  Th  EU  ***  Kh  I  ***  S  EO  B  U  Th  EO  S  I  J  A  ***  A  ***  D  A  G  O  J  U  J  A  NG  H  A  G  O  S  I  p  DD  A
+64 op    C   C  C  C  C   C  C   C  C   C  C   C   C  C  C   C  C  C   C  C  C  C  C  C  C  C   C   C   C  S  C  C  C   C   C  C   D    S    C   C  C  C  C   C   C  C   D    C  C  C   C   C   I   C  C   C  C   S   C   D    S  C   C  C  S   S  C  C  C   C   C  C  C  C  C   C   C  C  C   C  C  C   S   S  C  C   C  C  S  C  C   C  C  C  C   I    C    S   C   C  C  C   C  C  C   C   C  C  C  C   C   C   C  C  C   C   D    C  C  C  C  C  C  C   S  C  C  C  C  C  C  C  C   C  C  C   C  C  C  C  C  C  C  C   C  C  C   C   C   S  C   C  C  C   C  C   C  C  C   C  C  C  C   C  C  C  C   I   C   C   C   C  C  C  C   C  C   C   C  C  C   C  C  C   C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C  S   S  C   S   C  C  C  C   C   C  C  C  C   C  C   C   C  C   S   C   D    S  C   D   C   C  C  C   C   C  C  C  C  C   D   C   D   C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C   C  C
+64 #csid 235 17 3 8
+65 ref  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A  R  A  NG   H   A  N  D  A  iE  J  EO  N  U  R  I  iU  CHh  I  uEO  N  S  EO  N  S  E   NG  N  I  M  I  J   U   S  I  N  S  E  k  JJ   O  NG  I  G  A  Th  EU  N  BB  A  L  G  A  N  S  E  k   B  O  R  A  ***  S  E  k   J   A  J  U  S  E  k  N  O  k  SS  E  k  I  R  EO  N  ***  ***  ***  S  E  k  GG  A  R  EU  L  N  A  N  EU  N  J  O  A  A  N  D  A  N  A  N  EU  N  U  R  I  N  A  R  A   G  A  EU  L  H  A  N  EU  R  EU  L  S  A  R  A   NG  H  A  N  D  A  N  A  N  EU  N  O  R  E  D  OE  N  G  A   G    U  euI  S  E  G  EU  L  J  O  A  A  N  D  A  N  EU  L  G  EO  G  A  N  EU  N  H  A  k  JJ  A  euI   H   euI  GG  EU   Th  euI  GG  EU   Th  A  N  M  EO  R  I  Kh  A  R  A  G  EU  R  J  O   A   A  N  D  A  N  A  N  EU  N  I  R  EU  N  A  CHh  I  M  euI  S  E  S   O  R  I  R  EU  L  J  O  A  A  M  iEO  B  O   M   S   I  N  E   N   M  U  L  H  EU  R  EU  N  EU  N  S  O  R  I  R  EU  L  J  EU  L  G  I  N  D  A  G  A  L  D  E   E   B  U  N  EU  N  ***  ***   B  A  R  A  M  S  O  R  I  R  EU  L  J  O  A  A  M  iEO  B  A  D  A  euI  Ph  A   D  O  S   O  R  I  R  EU  L  ***  ***  ***  D  EU  R  EU  M  iEO  N  A   J   I  k  DD  O  G  A  S  EU  M  I  DD  UI  N  D  A
+65 hyp  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A  R  A  NG  ***  A  N  D  A  iE  J  EO  N  O  R  I  iU   S   I  uEO  N  J  EO  N  S  E  ***  N  I  M  I  J  ***  J  I  N  S  E  k   J  EO  NG  I  G  A  Th  EU  N  BB  A  L  G  A  N  S  E  k  BB  O  R  A   N   S  E  k  ***  A  J  U  S  E  k  N  O  k  SS  E  k  I  R  EO  N   S    E    NG  S  E  k  GG  A  R  EU  L  N  A  N  EU  N  J  O  A  A  N  D  A  N  A  N  EU  N  U  R  I  N  A  R  A  GG  A  EU  L  H  A  N  EU  R  EU  L  S  A  R  A  ***  H  A  N  D  A  N  A  N  EU  N  O  R  E  B   O  M  G  A  ***  GG  euI  S  E  G  EU  L  J  O  A  A  N  D  A  N  EU  L  G   O  G  A  N  EU  N  H  A  L  JJ  A  euI  ***   EU   G  EU  ***   EU   G  EU  ***  A  N  M   O  R  I  GG  A  R  A  G  EU  L  J  O  ***  A  N  D  A  N  A  N  EU  N  I  R  EO  N  A  CHh  I  M   EU  S  E  S  EO  R  I  R  EU  L  J  O  A  A  M  iEO  B  O  NG  CHh  I  N  E  ***  M  O  L  H  EU  R  EU  N  EU  N  S  O  R  I  R  EU  L  J  EU  L  G  I  N  D  A  G  A  L  D  E  euI  B  O  N  EU  N   S    A   BB  A  R  A  M  S  O  R  I  R  EU  L  J  O  A  A  M  iEO  B  A  D  A  euI   B  A  DD  O  S  EO  R  I  R  EU  L   DD   EU   R   D  EU  R  EU  M  iEO  N  A  CHh  I  k  DD  O  G  A  S  EU  M  I   D  OE  N  D  A
+65 op   C  C  C   C  C  C  C   C  C  C  C  C  C  C  C  C   C  C  C  C  C  C   C   D   C  C  C  C   C  C   C  C  S  C  C   C   S   C   C   C  S   C  C  C  C   D   C  C  C  C  C   D   S  C  C  C  C  C   S   S   C  C  C  C   C   C  C   C  C  C  C  C  C  C  C  C   S  C  C  C   I   C  C  C   D   C  C  C  C  C  C  C  C  C   C  C  C  C  C   C  C   I    I    I   C  C  C   C  C  C   C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C   S  C   C  C  C  C  C   C  C   C  C  C  C  C  C   D   C  C  C  C  C  C  C  C   C  C  C  C  C  S   S  S  C  C   D    S   C   C  C  C   C  C  C  C  C  C  C  C  C  C   C  C  C   S  C  C  C   C  C  C  C  S   C  C   C    D    S    S   C   D    S    S   C   D   C  C  C   S  C  C   S  C  C  C  C   C  S  C  C   D   C  C  C  C  C  C  C   C  C  C  C   S  C  C   C   C  C   S   C  C  C   S  C  C  C   C  C  C  C  C  C  C   C   C  C   S   S   C  C  C   D   C  S  C  C   C  C   C  C   C  C  C  C  C  C  C   C  C  C   C  C  C  C  C  C  C  C  C  C  C  C   S   C  S  C   C  C   I    I    S  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C   C   C  C  C  C   C    S  C   S  C  C   S  C  C  C   C  C   I    I    I   C   C  C   C  C   C   C  C   S   C  C   C  C  C  C  C   C  C  C   S   S  C  C  C
+65 #csid 310 36 9 11
+66 ref  S  E  R  O   S    E    NG   G    I    N   S  I  k  DD  A  NG   E    G    A    B    oA   N    N    EU   N    D    E    B    U    N    UI   G    I    G    A    A    J    U    J    O    Th   EO   N    D   E   iO
+66 hyp  S  E  R  O  ***  ***  ***  ***  ***  ***  S  I  k  DD  A  NG  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  E  ***
+66 op   C  C  C  C   D    D    D    D    D    D   C  C  C   C  C   C   D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D    D   C   D 
+66 #csid 11 0 0 35
+67 ref  G  uEO  ***  N  ***  N  iEO  k  GG  oA  G  O  NG  G  uEO  N  N  iEO  G  euI  CHh  A  I  J  EO  M  I  M  uEO  ***  N  J  I  A  S  E  iO
+67 hyp  G  uEO   NG  N  uEO  N  iEO  k  GG  oA  G  O  NG  G   O   G  N  iEO  G  euI  CHh  A  I  J  EO  M  I  M  uEO   N   N  J  I  A  S  E  iO
+67 op   C   C    I   C   I   C   C   C   C   C  C  C   C  C   S   S  C   C   C   C    C   C  C  C   C  C  C  C   C    I   C  C  C  C  C  C   C
+67 #csid 32 2 3 0
+68 ref  D  UI  S  I  R  EU  N  N  A  J  U  NG  E  S  E  NG  G  A  Kh  A  G  O  G  EU  Ph  A  N  B  U  L  B  U  Th  EO  G  EU  p  SS  I  D  A
+68 hyp  D  UI  S  I  R  EU  N  N  A  J  U   N  E  S  E  NG  G  A  Kh  A  G  O  G  EU  Ph  A  N  B  U  L  B  U  Th  EO  G  EU  p  SS  I  D  A
+68 op   C   C  C  C  C   C  C  C  C  C  C   S  C  C  C   C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C   C   C  C   C  C   C  C  C  C
+68 #csid 40 1 0 0
+69 ref  EO  L  G  U  L  B  O  N  I  N  EO   M   U  S  EU  N  A  N  J  O  EU  N  I  L  I  t  GG  U  N  A
+69 hyp  EO  L  G  U  L  B  O  N  I  N  EO  ***  U  S  EU  N  A  N  J  O  EU  N  I  L  I  t  GG  U  N  A
+69 op    C  C  C  C  C  C  C  C  C  C   C   D   C  C   C  C  C  C  C  C   C  C  C  C  C  C   C  C  C  C
+69 #csid 29 0 0 1
+70 ref  CHh  A  NG  M  U  N  I  ***  iEO  L  L  iEO  N  N  E  iO  D  A  D  A  J  U  S  E  iO
+70 hyp  CHh  A  NG  M  U  N  I  iEO  iEO  L  L  iEO  N  N  E  iO  D  A  D  A  J  U  S  E  iO
+70 op    C   C   C  C  C  C  C   I    C   C  C   C   C  C  C   C  C  C  C  C  C  C  C  C   C
+70 #csid 24 0 1 0
+71 ref  S  I  NG   S  I  NG  H  A  D  A
+71 hyp  J  I   p  JJ  I   M  M  A  D  A
+71 op   S  C   S   S  C   S  S  C  C  C
+71 #csid 5 5 0 0
+72 ref  Ph  U  L
+72 hyp  Ph  O  N
+72 op    C  S  S
+72 #csid 1 2 0 0
+73 ref  H  OE  euI
+73 hyp  H  OE   I 
+73 op   C   C   S 
+73 #csid 2 1 0 0
+74 ref  M  U  N  euI
+74 hyp  M  U  R  euI
+74 op   C  C  S   C 
+74 #csid 3 1 0 0
+75 ref  S  A  NG  G  EU  M
+75 hyp  S  A  NG  G   O  M
+75 op   C  C   C  C   S  C
+75 #csid 5 1 0 0
+76 ref  B  U  EO  Kh
+76 hyp  B  U  EU  Kh
+76 op   C  C   S   C
+76 #csid 3 1 0 0
+77 ref  M  U  R   EU  p
+77 hyp  N  O  R  iEO  k
+77 op   S  S  C   S   S
+77 #csid 1 4 0 0
+78 ref  M  E  NG  ***  N  A  k
+78 hyp  M  E  NG   A   N  A  k
+78 op   C  C   C   I   C  C  C
+78 #csid 6 0 1 0
+79 ref  G  iEO  NG  N  ***  iEO
+79 hyp  G  iEO  NG  N  iEO  iEO
+79 op   C   C    C  C   I    C 
+79 #csid 5 0 1 0
+80 ref  G  EU  ***  N  ***  N  O  J  A
+80 hyp  G  EU   N   N   O   N  O  J  A
+80 op   C   C   I   C   I   C  C  C  C
+80 #csid 7 0 2 0
+81 ref  euI  S  A  S   O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  G  I  G  A  Th  EU  N  Ph   iO  iEO  N  G  I  N  EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  D  EU   t   GG  I  oA  I  k  GG  I  G  A  Th  EU  N  G  I  N  EU  NG  I   D   EO  J  U  NG  iO  A  L  GG  A  N  A  N  EU  N  I  E  iEO  NG  iEO   G    I   D  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I   D    EU   t   GG  I  G  A  G  I  B   O   N  I  R  A  G  O  S  E  NG  G  A  Kh  A   N   D  A  D  A  R  EU  N  I  euI  M  A  R  EU  L  D  EU   t   GG  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S  O  Th  O  NG  EU  L   G  iE  S  O  Kh  A  L  S  U  I   t   GG  I  D  E  M  U  N  I  D  A  D  A  R   A   S  EO  J  I  N  J  EO  NG   H   A  N  euI  S  A  S  O  Th  O  NG  EU  N  D  EU   t   GG  I  E  S  EO  B  U  Th  EO  S  I  J  A  Kh  A   N   D  A  G  O  J  U  J  A   NG  H  A  G  O  S  I  p  DD  A
+81 hyp  euI  S  A  S  EO  Th  O   N  G  oA  J   A   N  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  G  I  G  A  Th  EU  N  Ph  ***  iEO  N  G  A  N   A  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  D  EU  ***   G  I  oA  I  L   J  I  G  A  Th  EU  N  G  A  N   A  NG  I  ***  EO  J  U  NG  iO  A  L  GG  A  N  A  N  EU  N  I  E   EO   N  iEO  ***  NG  EU  EO  J  U  NG  iO  A  G  O   D  EU  Kh  I  ***  ***  ***   G  I  G  A  G  I  B  ***  U  I  R  A  G  O  S  E  NG  G  A  Kh  A  ***  D  A  D  A  R  EU  N  I  euI  M  A  R  EU  L  D  EU  ***   R  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S  O  Th  O  NG  EU  L  GG  iE  S  O  Kh  A  L  S  U  I  ***  GG  I  D  E  M  U  N  I  D  A  D  A  R  ***  S  EO  J  I  N  J   A  NG  ***  A  N  euI  S  A  S  O  Th  O  NG  EU  L  D  EU  ***  Kh  I  E  S  EO  M  U  Th  EO  S  I  J  A  Kh  A  ***  D  A  G  O  J  U  J  A  ***  N  A  G  O  S  I  p  DD  A
+81 op    C   C  C  C   S   C  C   S  C   C  C   S   S  C  C   C  C  C   C  C  C  C  C  C  C  C   C   C   C  C  C  C  C   C   C  C   C   D    C   C  C  S  C   S   C  C  C   C  C  C   C   C  C  C   C  C  C   C   D    S  C   C  C  S   S  C  C  C   C   C  C  C  S  C   S   C  C   D    C  C  C   C   C  C  C   C  C  C  C  C   C  C  C  C   S    S   C    D    S   S   C  C  C   C   C  C  C  C   S   C   C  C   D    D    D    S  C  C  C  C  C  C   D   S  C  C  C  C  C  C  C   C  C  C   C  C   D   C  C  C  C  C   C  C  C   C   C  C  C   C  C  C   C   D    S  C  C   C  C  C  C   C  C  C  C  C   C   C   C  C  C  C   C  C   C   C  C   S   C  C  C   C  C  C  C  C  C   D    C  C  C  C  C  C  C  C  C  C  C  C  C   D   C   C  C  C  C  C   S   C   D   C  C   C   C  C  C  C   C  C   C   C  S  C   C   D    S  C  C  C   C  S  C   C   C  C  C  C  C   C  C   D   C  C  C  C  C  C  C  C   D   S  C  C  C  C  C  C   C  C
+81 #csid 219 25 0 16
+82 ref  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A   R   A  NG  H  A  N  D  A  iE  J  EO  N  U  R  I   iU  CHh  I  uEO  N  S  EO  N  S  E  NG  N  I  M  I  J  U  S  I  N  S  E  k  JJ   O  NG  I  G  A  Th  EU  N  BB  A  L  G  A  N  S  E  k  B  O  R  A  S  E  k   J   A  J   U    S  E  k  N  O   k   SS  E   k   I  R  EO  N  S  E  k  GG  A  R  EU  L  N  A  N  EU  N  J  O  A  A  N  D  A  N  A  N  EU  N  U  R  I  N  A  R  A  G  A   EU   L   H  A  N  EU  R  EU  L  S  A   R   A  NG  H  A  N  D   A    N   A   N   EU  N   O  R  E  D  OE  N  G  A  G   U   euI  S  E  G  EU  L  J  O  A  A  N  D  A  N  EU   L    G   EO  G   A   N  EU  N  H  A  k  JJ  A  euI   H   euI  GG  EU   Th  euI  GG  EU  Th  A  N  M  EO  R  I  Kh  A  R  A  G  EU  R  J  O   A   A   N   D  A  N   A   N  EU  N  I  R  EU   N   A  CHh  I  M  euI  S  E  S   O  R  I   R   EU  L  J  O   A   A  M  iEO   B   O  M  S  I   N    E    N   M   U  L  H  EU  R  EU  N  EU  N  S   O  R  I   R   EU  L  J  EU  L  G  I  N  D  A  G   A  L  D   E   E  B  U  N  EU  N  B  A  R  A  M  S   O  R  I   R   EU  L  J  O  A  A  M  iEO  ***   B  A  D  A  euI  Ph  A  D  O  S   O  R   I   R  EU  L  D  EU  R  EU  M  iEO  N  A  J  I   k   DD  O  G  A   S  EU  M  I  DD  UI  N  D  A
+82 hyp  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A  ***  A  NG  H  A  N  D  A   E  J  EO  N  U  R  I  ***   J   I   EO  N  S  EO  N  S  E  NG  N  I  M  I  J  U  S  I  N  S  E  k   J  EO  NG  I  G  A  DD  EU  N  BB  A  L  G  A  N  S  E  k  B  O  R  A  S  E  k  ***  A  J  ***  EO  E  k  N  O  ***  SS  E  ***  I  R  EO  N  S  E  k   G  A  R  EU  L  N  A  N  EU  N  J  O  A  A  N  D  A  N  A  N  EU  N  U  R  I  N  A  R  A  G  A  ***  ***  H  A  N  EU  R  EU  L  S  A  ***  A  NG  H  A  N  D  ***  ***  A  ***  EU  N  EO  R  E  D  OE  N  G  A  G  ***  euI  S  E  G  EU  L  J  O  A  A  N  D  A  N  EU  ***  ***  EO  G  ***  N  EU  N  H  A  L  JJ  A  ***  ***  euI   G  EU  ***   Kh   G  EU  Th  A  N  M  EO  R  I   G  A  R  A  G  EU  L  J  O  ***  A  ***  D  A  N  ***  N  EU  N  I  R  EU  ***  A  CHh  I  M   E   S  E  S  EO  R  I  ***  EU  L  J  O  ***  A  M  iEO  ***  N  B  J  I  ***  ***  euI  M  EU  L  H  EU  R  EU  N  EU  N  S  EO  R  I  ***  EU  L  J  EU  L  G  I  N  D  A  G  EO  L  D  ***  E  B  O  N  EU  N  B  A  R  A  M  S  EO  R  I  ***  EU  L  J  O  A  A  M  iEO   N   BB  A  D  A  euI  Ph  A  R  O  S  EO  R  ***  R  EU  L  D  EU  R  EU  M  iEO  N  A  J  I  ***  DD  O  G  A  SS  EU  M  I   D  EU  N  D  A
+82 op   C  C  C   C  C  C  C   C  C  C  C  C  C  C  C  C   C  C  C  C   D   C   C  C  C  C  C  C   S  C   C  C  C  C  C   D    S   C   S   C  C   C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C  C   S   S   C  C  C  C   S   C  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   D   C  C   D    S  C  C  C  C   D    C  C   D   C  C   C  C  C  C  C   S  C  C   C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C   D    D   C  C  C   C  C   C  C  C  C   D   C   C  C  C  C  C   D    D   C   D    C  C   S  C  C  C   C  C  C  C  C   D    C   C  C  C   C  C  C  C  C  C  C  C  C  C   C   D    D    C  C   D   C   C  C  C  C  S   C  C   D    D    C    S   C   D    S    S   C   C  C  C  C   C  C  C   S  C  C  C  C   C  S  C  C   D   C   D   C  C  C   D   C   C  C  C  C   C   D   C   C   C  C   S   C  C  C   S  C  C   D    C  C  C  C   D   C  C   C    D   S  S  S  C   D    D    S   C   S  C  C   C  C   C  C   C  C  C   S  C  C   D    C  C  C   C  C  C  C  C  C  C  C   S  C  C   D   C  C  S  C   C  C  C  C  C  C  C  C   S  C  C   D    C  C  C  C  C  C  C   C    I    S  C  C  C   C    C  C  S  C  C   S  C   D   C   C  C  C   C  C   C  C   C   C  C  C  C   D    C  C  C  C   S   C  C  C   S   S  C  C  C
+82 #csid 292 32 1 33
+83 ref  I  R  EO  Kh  E  G  A  M  S  A  euI  M  A  L  SS  EU  M  EU   L   J  EO  N  A  L  S  U  I  SS  EU  L  J  EO  NG  D  O  R  O  S  EO  NG  J  A  NG  H  E  S  SS  EU  M  N  I  D  A
+83 hyp  I  R  EO  Kh  E  G  A  M  S  A  euI  M  A  L  SS  EU  M  EU  ***  J  EO  N  A  L  S  U  I  SS  EU  L  J  EO  NG  D  O  R  O  S  EO  NG  J  A  NG  H  E  S  SS  EU  M  N  I  D  A
+83 op   C  C   C   C  C  C  C  C  C  C   C   C  C  C   C   C  C   C   D   C   C  C  C  C  C  C  C   C   C  C  C   C   C  C  C  C  C  C   C   C  C  C   C  C  C  C   C   C  C  C  C  C  C
+83 #csid 52 0 0 1
+84 ref  D  UI  S  I  R  EU  N  N  A  J  U  NG  E  S  E  NG  G  A  Kh  A  G  O  G  EU  Ph  A  N  B  U  L  B  U  Th  EO  G  EU  p  SS  I  D  A
+84 hyp  D  EU  S  I  R  EU  N  N  A  J  U  NG  E  S  E  NG  G  A  Kh  A  G  O  G  EU  Ph  A  N  B  U  L  B  U  Th  EO  G  EU  p  SS  I  D  A
+84 op   C   S  C  C  C   C  C  C  C  C  C   C  C  C  C   C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C   C   C  C   C  C   C  C  C  C
+84 #csid 40 1 0 0
+85 ref  EO  L  G  U  L  B  O  N  I  N  EO  M  U  S  ***  EU  N  A  N  J  O  EU  N  I  L  I  t  GG  U  N  A
+85 hyp  EO  L  G  U  L  B  O  N  I  N  EO  M  U  S   EU  EU  N  A  N  J  O  EU  N  I  L  I  t  GG  U  N  A
+85 op    C  C  C  C  C  C  C  C  C  C   C  C  C  C   I    C  C  C  C  C  C   C  C  C  C  C  C   C  C  C  C
+85 #csid 30 0 1 0
+86 ref  G  EU  G  EO  t  DD  O  O  S  I  R  A  G  O  I  p  GG  O  D  A  N  I  N  I
+86 hyp  G  EU  G  EO  t  DD  O  O  S  I  R  A  G  O  I  p  GG  O  D  A  D  N  N  I
+86 op   C   C  C   C  C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  S  S  C  C
+86 #csid 22 2 0 0
+87 ref  ***  Ph  U  L
+87 hyp   BB   O  R  I
+87 op    I    S  S  S
+87 #csid 0 3 1 0
+88 ref   G    U   A  D  A
+88 hyp  ***  Ph  oA  D  A
+88 op    D    S   S  C  C
+88 #csid 2 2 0 1
+89 ref  euI  S  A  S   O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  G  I  G  A  Th  EU  N  Ph  iO  iEO   N    G   I  N  EU   NG  I  D  EO  J   U  NG  iO  A  L   GG  A   D    EU   t  GG  I  oA  I   k   GG  I   G  A  Th  EU  N  G  I  N  EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A   N   A  N  EU  N  I  E  ***  iEO  NG  iEO   G  I  D  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I  D  EU   t   GG  I  G  A  G  I  B  O  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N   D  A  D  A  R  EU  N  I  euI  M  A  R  EU  L  D  EU   t   GG  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S   O  Th  O  NG  EU  L  G  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M   U  N  I  D  A  D  A  R  A  S  EO  J  I  N  J   EO  NG  H  A  N  euI  S  A  S  O  Th  O  NG  EU   N    D   EU   t  GG  I  E  S  EO   B   U  Th  EO  S  I  J  A  Kh  A  N  D  A  G  O  J  U  J  A  NG  H  A  G  O  S  I  p  DD  A
+89 hyp  euI  S  A  S  EO  Th  O   N  H  oA  J   A   N  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  G  I  G  A  Th  EU  N  Ph  iO  iEO  ***  ***  I  N  EU  ***  I  J   U  S  EU   N  iO  A  L  ***  A  ***  ***  EO   G  I  oA  I  ***   G  I  Kh  A  Th  EU  N  G  I  N  EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  ***  A  N  EU  N  I  E   EO   N    G   EO  Kh  I  R  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I  D  EU  ***   G  I  G  A  G  I  B  U  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  DD  A  D  A  R  EU  N  I   E   M  A  N  EU  L  D  EU  ***   G  O  G   O  M  A  R  EU  L  I  E  E  iA   I   S  A  S  EO  Th  O  NG  EU  L  G  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  EO  N  I  D  A  D  A  R  A  S  EO  J  I  N  J  ***   A  N  A  N  euI  S  A  S  O  Th  O  NG  EU  ***  ***   L  EO  GG  I  E  S  EO  ***  U  Th  EO  S  I  J  A   D  A  N  D  A  G  O  J  U  J  A  NG  H  A  G  O  S  I  p  DD  A
+89 op    C   C  C  C   S   C  C   S  S   C  C   S   S  C  C   C  C  C   C  C  C  C  C  C  C  C   C   C   C  C  C  C  C   C   C  C   C   C   C    D    D   C  C   C   D   C  S   S  S   S   S   C  C  C   D   C   D    D    S   S  C   C  C   D    S  C   S  C   C   C  C  C  C  C   C   C  C  C   C  C  C   C   C  C  C   C  C   D   C  C   C  C  C  C   I    S    S   S    S  C  S   C  C  C   C   C  C  C  C   C   C   C  C  C   C   D    S  C  C  C  C  C  C  S  C  C  C  C  C  C  C  C   C  C  C   C  C  C   S  C  C  C  C   C  C  C   S   C  C  S   C  C  C   C   D    S  C  C   S  C  C  C   C  C  C  C  C   C   S   C  C  C   S   C  C   C   C  C  C   C  C  C   C  C  C  C  C  C  C   C  C  C  C  C   S  C  C  C  C  C  C  C  C  C   C  C  C  C  C   D    S  S  C  C   C   C  C  C  C   C  C   C   C   D    D    S   S   C  C  C  C   C   D   C   C   C  C  C  C  C   S  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C   C  C
+89 #csid 212 34 1 14
+90 ref  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A   R   A  NG  H  A  N  D  A   iE  J  EO  N  U  R  I  iU  CHh  I  uEO  N  S  EO  N  S  E   NG  N  I  M  I  J  U  S  I   N    S    E    k   JJ   O  NG  I  G   A  Th  EU   N   BB  A  L  G  A  N   S  E  k   B  O  R  A   S    E   k  J  A  J  U  S   E    k    N    O   k  SS   E    k  I   R   EO  N  S  E   k  GG  A  R  EU  L   N    A    N    EU   N   J  O   A   A  N  D   A    N   A   N   EU  N  U  R  I  N  A  R   A   G  A  EU   L   H  A   N    EU  R  EU  L  S  A   R   A   NG   H   A  N  D  A  N   A  N  EU  N   O   R  E  D  OE  N   G  A   G  U  ***  euI  S  E  G  EU  L  J  O   A   A  N  D  A   N    EU  L   G  EO  G   A   N  EU  N  H  A  k  JJ  A  euI  H  euI  GG  EU  Th  euI  GG  EU  Th  A  N  M  EO  R  I  Kh  A  R  A  G  EU  R  J  O   A   A  N  D   A    N   A  N  EU  N   I    R   EU  N  A  CHh  I  M  euI  S  E  S   O  R  I  R  EU  L  J  O   A   A  M  iEO  ***  B  O  M  S  I  N   E    N  M   U  L  H   EU   R   EU  N  EU  N  S   O    R    I  R   EU  L  J  EU   L   G  I  N  D  A  G  A  L  D   E   E   B    U   N  EU  N  B  A  R  A  M  S   O    R    I  R  EU  L  J  O  A  A  M  iEO  ***  B  A  D  A  euI  Ph  A   D    O   S   O  R  I  R  EU  L  D  EU   R   EU  M  iEO  N   A   J  I  k  DD   O  G  A   S  EU  M  I  DD  UI  N   D    A 
+90 hyp  N  A  N  EU  N  A  R  EU  M  D  A  U  M  S  I  G  EU  L  S  A  ***  A  NG  H  A  N  D  A  ***  J  EO  N  U  R  I   I   J   I   EO  N  S  EO  N  S  E  ***  N  I  M  I  J  U  S  I  ***  ***  ***  ***   J  EO  NG  I  G  EO  Th  EU  ***  BB  A  L  G  A  N  SS  E  k  BB  O  R  A  ***  ***  k  J  A  J  U  S  ***  ***  ***  ***  M  SS  ***  EU  I  ***  EO  N  S  E  NG   G  A  R  EU  L  ***  ***  ***  ***  ***  J  O  ***  A  N  D  ***  ***  A  ***  EU  N  U  R  I  N  A  R  ***  G  A  EU  ***  H  A  ***  ***  G  EU  L  S  A  ***  A  ***  ***  A  N  D  A  N  EU  N  EO  N  ***  N  E  D  EU  N  Kh  A  Kh  U   I    M   S  I  G  EU  L  J  O  ***  A  N  D  A  ***  ***  E  Kh  EO  G  ***  N  EU  N  H  A  L  JJ  A  euI  H   E   GG  EU   H   E    G  EU  Th  A  N  M  EO  R  I   G  A  R  A  G  EU  L  J  O  ***  A  N  D  ***  ***  A  N  EU  N  ***  ***  EO  N  A   J   I  M   E   S  E  S  EO  R  I  R  EU  L  J  O  ***  A  M  iEO   N   B  O  M  S  I  N  ***  EU  M  EU  L  H  ***  ***  EU  D  EU  N  S  ***  ***  EO  R  ***  L  J  EU  ***  G  I  N  D  A  G  A  L  D  ***  E  ***  euI  M  EU  L  B  A  R  A  N  S  ***  ***  EO  R  EU  L  J  O  A  A  M  iEO   N   B  A  D  A  euI  Ph  A  ***  ***  S  EO  R  I  R  EU  L  D  EU  ***   L  M  iEO  N  ***  J  I  k  DD  EO  G  A  SS  EU  M  I  Th  EU  N  ***  ***
+90 op   C  C  C   C  C  C  C   C  C  C  C  C  S  C  S  C   C  C  C  C   D   C   C  C  C  C  C  C   D   C   C  C  C  C  C   S   S   C   S   C  C   C  C  C  C   D   C  C  C  C  C  C  C  C   D    D    D    D    S   S   C  C  C   S   C   C   D    C  C  C  C  C  C   S  C  C   S  C  C  C   D    D   C  C  C  C  C  C   D    D    D    D   S   C   D    S  C   D    C  C  C  C   S   S  C  C   C  C   D    D    D    D    D   C  C   D   C  C  C   D    D   C   D    C  C  C  C  C  C  C  C   D   C  C   C   D   C  C   D    D   S   C  C  C  C   D   C   D    D   C  C  C  C  C   S  C   S  C   D   S  C  C   S  C   S  C   S  C   I    S   C  S  C   C  C  C  C   D   C  C  C  C   D    D   S   S   C  C   D   C   C  C  C  C  S   C  C   C   C   S    C   C   S   S    S   C   C  C  C  C   C  C  C   S  C  C  C  C   C  S  C  C   D   C  C  C   D    D   C  C   C  C   D    D    S  C  C   S   C  C   S   C  C  C   S  C  C  C   C  C  C  C   D   C  C   C    I   C  C  C  C  C  C   D    S  C   S  C  C   D    D    C  S   C  C  C   D    D    S  C   D   C  C   C   D   C  C  C  C  C  C  C  C  C   D   C   D    S   S   C  S  C  C  C  C  S  C   D    D    S  C   C  C  C  C  C  C  C   C    I   C  C  C  C   C    C  C   D    D   C   S  C  C  C   C  C  C   C   D    S  C   C   C   D   C  C  C   C   S  C  C   S   C  C  C   S   S  C   D    D 
+90 #csid 246 51 3 60
+91 ref  I  R  EO  Kh  E  G  A  M  S  A  euI  M  A  L  SS  EU  M  EU  L  J  EO  N  A  L  S  U  I  SS  EU  L  J  EO  ***  NG  D  O  R  O  S  EO  NG  J  A  NG  H  E  S  SS  EU  M  N  I  D  A
+91 hyp  I  R  EO  Kh  E  G  A  M  S  A  euI  M  A  L  SS  EU  M  EU  L  J  EO  N  A  L  S  U  I  SS  EU  L  J  EO   N   NG  D  O  R  O  S  EO  NG  J  A  NG  H  E  S  SS  EU  M  N  I  D  A
+91 op   C  C   C   C  C  C  C  C  C  C   C   C  C  C   C   C  C   C  C  C   C  C  C  C  C  C  C   C   C  C  C   C   I    C  C  C  C  C  C   C   C  C  C   C  C  C  C   C   C  C  C  C  C  C
+91 #csid 53 0 1 0
+92 ref  EU  N  E  NG  I  I  R  EO  Kh  E  M  U  N  EU  L  I  L  JJ  I  k  D  A  N  N  ***  EU  N  G  EO  L  A  R  A  t  DD  A  M  iEO  N  S  EO  D  U  L  L  EO  SS  EU  L  Th  E  N  D  E  iO
+92 hyp  EU  N  E  NG  I  I  R  EO  Kh  E  M  U  N  EU  L  I  L  JJ  I  k  D  A  N  N   EU  EU  N  G  EO  L  A  R  A  t  DD  A  M  iEO  N  S  EO  D  U  L  L  EO  SS  EU  L  Th  E  N  D  E  iO
+92 op    C  C  C   C  C  C  C   C   C  C  C  C  C   C  C  C  C   C  C  C  C  C  C  C   I    C  C  C   C  C  C  C  C  C   C  C  C   C   C  C   C  C  C  C  C   C   C   C  C   C  C  C  C  C   C
+92 #csid 54 0 1 0
+93 ref  G  uEO  N  N  iEO  k  GG  oA  G  O  NG  G  uEO  N  N  iEO  G  euI  CHh  A  I  J  EO  M  I  M  ***  uEO  N  J  I  A  S  E  iO
+93 hyp  G  uEO  N  N  iEO  k  GG  oA  G  O  NG  G  uEO  N  N  iEO  G  euI  CHh  A  I  J  EO  M  I  M  uEO  uEO  N  J  I  A  S  E  iO
+93 op   C   C   C  C   C   C   C   C  C  C   C  C   C   C  C   C   C   C    C   C  C  C   C  C  C  C   I    C   C  C  C  C  C  C   C
+93 #csid 34 0 1 0
+94 ref  D   UI  S  I  R  EU  N  N  A  J  U  NG  E  S  E  NG  G  A  Kh  A  G  O  G  EU  Ph  A  N  B  U  L  B  U  Th  EO  G  EU  p  SS  I  D  A
+94 hyp  D  ***  S  I  R  EU  N  N  A  J  U  NG  E  S  E  NG  G  A  Kh  A  G  O  G  EU  Ph  A  N  B  U  L  B  U  Th  EO  G  EU  p  SS  I  D  A
+94 op   C   D   C  C  C   C  C  C  C  C  C   C  C  C  C   C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C   C   C  C   C  C   C  C  C  C
+94 #csid 40 0 0 1
+95 ref  EO  L  G  U  L   B   O   N   I  N  EO  M  U  S  EU  N  A  N  J  O  EU  N  I   L   I  t  GG  U  N  A
+95 hyp  EO  L  G  U  L  ***  O  ***  I  N  EO  M  U  S  EU  N  A  N  J  O  EU  N  I  ***  I  t  GG  U  N  A
+95 op    C  C  C  C  C   D   C   D   C  C   C  C  C  C   C  C  C  C  C  C   C  C  C   D   C  C   C  C  C  C
+95 #csid 27 0 0 3
+96 ref  G  uEO  N  ***  A  D  A
+96 hyp  G  uEO  N   A   A  D  A
+96 op   C   C   C   I   C  C  C
+96 #csid 6 0 1 0
+97 ref  BB  A  L  L  E
+97 hyp  BB  A  L  L  I
+97 op    C  C  C  C  S
+97 #csid 4 1 0 0
+98 ref   A   N  N  iEO  NG  H  A  S  E  iO  iEO  R  EO  B  U  N  J  EO  N   EU  N  J  U   L    L   I  A  NG  I  R  A  G  O  H  A  M  N  I  D  A  Ph  EU  R  A  NG  S  EU  E  S  EO  oA  S  SS  EU  M  N  I  D  A  J  EO  N   EU  N  A  N  G  U  G  EU  M  S  I  k  GG  oA  A  N  G  U  G  M  U  N  oA   E   G  oA  N  S  I  M   I   I  S  SS  EU  M  N  I  D  A  G  O  iA  NG  E  S  EO  N  EU  N  H  O  N   J   A   H   A  N  G  U  G  EO  R  EU  L  G  O   NG  B  U  ***  ***  E  S  SS  EU  M  N  I  D  A  A  J  I  k   H   A  N  G  U  G  EO  R  EU  L  J  A  L  M  O  Th  A  J  I  M  A  N  A  N  G  U  G  S  E  NG  H  oA   R   I  J  E  M  I  I  SS  EU  L  G  EO  t  G  A  t  SS  EU  M  N  I  D  A  iEO  R  EO  B  U  N  G  oA  G  A  Th  I  G  O  NG  B  U  A  ***  ***  ***  G  E  D   OE  EO  J  EO  NG  M  A  L  G  I  ***  BB  EU  M  N  I  D  A
+98 hyp  ***  M  E   U   NG  H  A  S  E  iO  iEO  R  EO  B  U  N  J  EO  N  ***  E  J  U  ***  ***  R  A  NG  I  R  A  G  O  H  A  M  N  I  D  A  Ph   A  R  A  NG  S  EU  E  S  EO  oA  S  SS  EU  M  N  I  D  A  J  EO  N  ***  E  A  N  G  U  G  EU  M  S  I  k  GG  oA  A  N  G  U  G  M  U  N  oA  ***  G  oA  N  S  I  M  ***  I  S  SS  EU  M  N  I  D  A  G  O  iA  NG  E  S  EO  N  EU  N  H  O  N  CHh  A  ***  A  N  G  U  G  EO  R  EU  L  B  O  ***  B  U   A    G   E  S  SS  EU  M  N  I  D  A  A  J  I  k  ***  A  N  G  U  G  EO  R  EU  L  J  A  L  M  O   H  A  J  I  M  A  N  A  N  G  U  G  S  E  NG  H  oA  ***  L  J  E  M  I  N   N  EU  N  G  EO  t  G  A  t  SS  EU  M  N  I  D  A  iEO  R  EO  B  U  N  G  oA  G  A   J  I  G  O   M  B  U  A   N    EU   N   G  E  D  ***  EO  J  EO  NG  M  A  L  G  I   p   SS  EU  M  N  I  D  A
+98 op    D   S  S   S    C  C  C  C  C   C   C   C   C  C  C  C  C   C  C   D   S  C  C   D    D   S  C   C  C  C  C  C  C  C  C  C  C  C  C  C   C   S  C  C   C  C   C  C  C   C   C  C   C   C  C  C  C  C  C  C   C  C   D   S  C  C  C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C  C   C   D   C   C  C  C  C  C   D   C  C   C   C  C  C  C  C  C  C  C   C   C  C  C   C  C   C  C  C  C  C   S   C   D   C  C  C  C  C   C  C   C  C  S  C   D   C  C   I    I   C  C   C   C  C  C  C  C  C  C  C  C  C   D   C  C  C  C  C   C  C   C  C  C  C  C  C  C   S  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   C   D   S  C  C  C  C  S   S   C  S  C   C  C  C  C  C   C   C  C  C  C  C  C   C   C   C  C  C  C  C   C  C  C   S  C  C  C   S  C  C  C   I    I    I   C  C  C   D    C  C   C   C  C  C  C  C  C   I    S   C  C  C  C  C  C
+98 #csid 209 17 6 12
+99 ref  O  N   EU   R   EU   N    H   A  N  G  U  G   EO  S  U  EO  B  I  I  SS  EO  iO  S  U  EO  B  EU  N  O  J  EO  N  A  O  p  S  I   E   S  I  J  A  Kh  E  iO  J  I  B  E  S  EO  H  A   k   GG  iO  ***  GG  A  ***  ***  J  I  S  A  M  S  I  p  B  U  N   I   G  EO  L  L  iEO  iO  I  L  G  O  p  S  I  E  I  R  EO  N  A  S  EO  A  CHh  I  M  EU  L  M  EO  G  EO  SS  EO  iO  iEO  D  EO  L  B  S  I  E  J  I  B  E   S    EO  N  A  G  A  SS  EO  iO  J  I  A  CHh  EO  R  iEO  G  E  D  O  CHh  A  Kh  E  SS  EO   iO  G  EU  R  EO   N    D  E  J  I  G  A  B  I  EO  p  SS  EO  SS  EO   iO  D  A  S  I  J  I  B  E  G  A  SS  EO  iO  CHh  E  k  SS  A  NG  ***  ***  UI  E  J  I  G  A  B  I  I  SS  EO  SS  EO  iO  J  I  A  CHh  EO  R  iEO  k  GG  A  J  I  DD  UI  EO  S  EO  G  A  SS  EO  iO  H  A  k  GG  iO  E  iEO  D  EO  L  B  S  I  O  S  I   M   O  B  U  N   E   D  O  CHh  A  Kh  E  SS  EO  iO  S  U  EO   B   E  A  N  ***  N  EU  J  EO   t   JJ  I  M  A  N  J  EO  NG  M  A  L  H  I  M  D  EU  R   EO   SS  EO  iO
+99 hyp  O  N  ***  ***  EU  ***  ***  A  N  G  U  G  ***  S  U  EO  B  I  I  SS  EO  iO  S  U  EO  B  EU  N  O  J  EO  N  A  O  p  S  I  ***  S  I  J  A  Kh  E  iO  J  I  B  E  S  EO  H  A  ***  GG  iO   k   GG  A   Th   I   S  I  S  A  M  S  I  p  B  U  N  ***  G  EO  L  L  iEO  iO  I  L  G  O  p  S  I  E  I  R  EO  N  A  S  EO  A  CHh  I  M  EU  L  M  EO  G  EO  SS  EO  iO  iEO  D  EO  L  B  S  I  E  J  I  B  E  ***  ***  N  A  G  A  SS  EO  iO  J  I  A  CHh  EO  L  iEO  G  E  D  O  CHh  A  Kh  E   S  EO  ***  G  EU  R  EO  ***  Kh  E  J  I  G  A  B  I  EO  p  SS  EO   S  EO  ***  D  A  S  I  J  I  B  E  G  A  SS  EO  iO   J   I  k  SS  A  NG   UI   E   UI  E  J  I  G  A  B  I  I  SS  EO  SS  EO  iO  J  I  A  CHh  EO  R  iEO  k  GG  A  J  I  DD  OE  EO  S  EO  G  A  SS  EO  iO  H  A  k  GG  iO  E  iEO  D  EO  L  B  S  I  O  S  I  ***  O  B  U  N  ***  D  O  CHh  A  Kh  E  SS  EO  iO  S  U  EO  ***  E  A  N   EU  N  EU  J  EO  ***   S  I  M  A  N  J  EO  NG  A  M  L  H  I  M  D  EU  R  ***  ***  EO  iO
+99 op   C  C   D    D    C   D    D   C  C  C  C  C   D   C  C   C  C  C  C   C   C   C  C  C   C  C   C  C  C  C   C  C  C  C  C  C  C   D   C  C  C  C   C  C   C  C  C  C  C  C   C  C  C   D    C   C   I    C  C   I    I   S  C  C  C  C  C  C  C  C  C  C   D   C   C  C  C   C    C  C  C  C  C  C  C  C  C  C  C   C  C  C  C   C  C   C   C  C   C  C  C   C  C   C   C   C   C   C   C   C  C  C  C  C  C  C  C  C  C   D    D   C  C  C  C   C   C   C  C  C  C   C    C  S   C   C  C  C  C   C   C   C  C   S   C   D   C   C  C   C   D    S  C  C  C  C  C  C  C   C  C   C   C   S   C   D   C  C  C  C  C  C  C  C  C  C   C   C   C   S   S  C   C  C   C   I    I    C  C  C  C  C  C  C  C  C   C   C   C   C   C  C  C  C   C    C  C   C   C   C  C  C  C   C   S   C  C   C  C  C   C   C   C  C  C  C   C   C  C   C   C   C  C  C  C  C  C  C  C   D   C  C  C  C   D   C  C   C   C   C  C   C   C   C  C  C   C   D   C  C  C   I   C   C  C   C   D    S  C  C  C  C  C   C   C  S  S  C  C  C  C  C   C  C   D    D    C   C
+99 #csid 252 11 6 19
+100 ref  G  A  J  O  G   I   M  iEO  t  M  iEO  NG  I  E  iO
+100 hyp  G  A  J  O  G  ***  M  iEO  t  M  iEO  NG  I  E  iO
+100 op   C  C  C  C  C   D   C   C   C  C   C    C  C  C   C
+100 #csid 14 0 0 1
+101 ref  iEO   G    I    B    I    B    I    M    B    A    p    H  A  N   G    EU   R    EU   S    G    A    t    DD   A    J   U   S    E    iO
+101 hyp  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  NG  A  N  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  ***  U  ***  ***  ***
+101 op    D    D    D    D    D    D    D    D    D    D    D    S  C  C   D    D    D    D    D    D    D    D    D    D    D   C   D    D    D 
+101 #csid 3 1 0 25
+102 ref  J  EO  N  EU  N  J  I  G  EU  M  EU  M  N  iO  S  U  A  G  O  GG  O  CHh  EU  L  S  A  R  EO  G  A  t  DD  A  oA  iA  D  OE  iO
+102 hyp  J  EO  N  EU  N  J  I  G  EU  M  EU  M  N  iO  S  U  A  G  O  GG  O  CHh  EU  L  S  A  R   A  G  A  t  DD  A  oA  iA  D  OE  iO
+102 op   C   C  C   C  C  C  C  C   C  C   C  C  C   C  C  C  C  C  C   C  C   C    C  C  C  C  C   S  C  C  C   C  C   C   C  C   C   C
+102 #csid 37 1 0 0
+103 ref  iEO  G  uEO  N  S  A  J  I  N   EU   L   JJ  I  G  EO  iA  D  OE  N  EU  N  D  E  EO  D  I  E  S  EO  JJ  I  G  EU  M  iEO  N  J  O  EU  L  GG  A  iO
+103 hyp  iEO  G  uEO  N  S  A  J  I  N  ***  ***  JJ  I  G  EO  iA  D  OE  N  EU  N  D  E  EO  D  I  E  S  EO  JJ  I  G  EU  M  iEO  N  J  O  EU  L  GG  A  iO
+103 op    C   C   C   C  C  C  C  C  C   D    D    C  C  C   C   C  C   C  C   C  C  C  C   C  C  C  C  C   C   C  C  C   C  C   C   C  C  C   C  C   C  C   C
+103 #csid 41 0 0 2
+104 ref  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A   R   EU  L  EO  DD  EO  Kh  E  H  E  N  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+104 hyp  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  ***   L  L  EO  DD  EO  Kh  E  H  E  N  N  EU  N  J  I  S  E  NG  G  A  k  N  A  S  E  iO
+104 op   C  C  C   C   C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C   D    S  C   C   C   C   C  C  C  C  C  C   C  C  C  C  C  C   C  C  C  C  C  C  C  C   C
+104 #csid 46 1 0 1
+105 ref  G  EU  R  EO  Kh  E  H  I  M  D  EU   N   I   R    EU  L  N  U  G  A  A  G  E  SS  EO  iO
+105 hyp  G  EU  R  EO  Kh  E  H  I  M  D  EU  ***  I  ***  ***  L  N  U  G  A  A  G  E  SS  EO  iO
+105 op   C   C  C   C   C  C  C  C  C  C   C   D   C   D    D   C  C  C  C  C  C  C  C   C   C   C
+105 #csid 23 0 0 3
+106 ref  ***  U  R  I
+106 hyp   GG  O  R  I
+106 op    I   S  C  C
+106 #csid 2 1 1 0
+107 ref   OE
+107 hyp  ***
+107 op    D 
+107 #csid 0 0 0 1
+108 ref  G  ***  iEO  k  DD  A
+108 hyp  G  iEO  iEO  k   N  A
+108 op   C   I    C   C   S  C
+108 #csid 4 1 1 0
+109 ref  GG  EU  ***  Th  I
+109 hyp   G  EU   L   SS  I
+109 op    S   C   I    S  C
+109 #csid 2 2 1 0
+110 ref  iE  N  N  A  L
+110 hyp  iE  N  N  U  L
+110 op    C  C  C  S  C
+110 #csid 4 1 0 0
+111 ref  J  I  p  JJ  I   M   M  A  D  A
+111 hyp  J  I  p  JJ  I  ***  M  A  D  A
+111 op   C  C  C   C  C   D   C  C  C  C
+111 #csid 9 0 0 1
+112 ref  J  I  N  N  U  R   EU   D   A
+112 hyp  J  I  N  N  U  R  ***  ***  A
+112 op   C  C  C  C  C  C   D    D   C
+112 #csid 7 0 0 2
+113 ref   G  U  NG  N  I
+113 hyp  GG  O  NG  R  I
+113 op    S  S   C  S  C
+113 #csid 2 3 0 0
+114 ref  A  N  N  iEO  NG  H  A  S  E  iO  iEO  R  EO  B  U  N  J  EO  N  EU  N  J   U    L  L  I  A  NG  I  R  A  G  O  H  A  M  N  I  D  A  Ph  EU  R  A  NG  S  EU  E  S  EO  oA  S  SS  EU  M  N  I  D  A  J  EO  N  EU  N  A  N  G  U  G  EU  M  S  I  k  GG  oA  ***   A  N  G  U  G  M  U  N  oA   E   G  oA   N   S  I  M  I  I  S  SS  EU  M  N  I  D  A  G  O  iA  NG  E  S  EO  N  EU  N  H  O  N  J  A  H  A  N  G  U  G  EO  R  EU  L  G  O  NG  B  U  E  S  SS  EU  M  N  I  D  A  A  J  I  k  H  A  N  G  U  G  EO  R  EU  L  J  A  L  M  O  Th  A  J  I  M  A  N  A  N  G  U  G  S  E  NG  H  oA  R  I  J  E  M  I  ***   I  SS  EU  L  G  EO  t  G  A  t  SS  EU  M  N  I  D  A  iEO  R  EO  B  U  N  G  oA  G  A  Th  I  G  O  NG  B  U  A  G  E  D  ***  OE  EO  J  EO  NG  M  A  L  G  I  ***  BB  EU  M  N  I  D  A
+114 hyp  A  N  N  iEO  NG  H  A  S  E  iO  iEO  R  EO  B  U  N  J  EO  N  EU  N  J  ***  EO  N  I  A   N  I  R  A  G  O  H  A  M  N  I  D  A   G  EU  R  A  NG  S  EU  E  S  EO  oA  S  SS  EU  M  N  I  D  A  J  EO  N  EU  N  A  N  G  U  G  EU  M  S  I  k  GG  oA   GG  oA  N  G  U  G  M  U  N  oA  euI  G  oA  ***  S  I  M  I  I  p  SS  EU  M  N  I  D  A  G  O  iA  NG  E  S  EO  N  EU  N  H  O  N  J  A  H  A  N  G  U  G  EO  R  EU  L  G  O  NG  B  U  E  S  SS  EU  M  N  I  D  A  A  J  I  k  H  A  N  G  U  G  EO  R  EU  L  J  A  L  M  O  Th  A  J  I  M  A  N  A  N  G  U  G  S  E  NG  H  oA  R  I  J  E  M  I   S   EU   R  EU  L  G  EO  t  G  A  t  SS  EU  M  N  I  D  A  iEO  R  EO  B  U  N  G  oA  G  A  Th  I  G  O  NG  B  U  A  G  E  D   U    E  EO  J  EO  NG  M  A  L  G  I   M    O  NG  M  N  I  D  A
+114 op   C  C  C   C    C  C  C  C  C   C   C   C   C  C  C  C  C   C  C   C  C  C   D    S  S  C  C   S  C  C  C  C  C  C  C  C  C  C  C  C   S   C  C  C   C  C   C  C  C   C   C  C   C   C  C  C  C  C  C  C   C  C   C  C  C  C  C  C  C   C  C  C  C  C   C   C   I    S  C  C  C  C  C  C  C   C   S   C   C   D   C  C  C  C  C  S   C   C  C  C  C  C  C  C  C   C   C  C  C   C  C   C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   C  C  C  C   C  C  C  C  C   C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   C  C  C  C  C  C  C   I    S   S   C  C  C   C  C  C  C  C   C   C  C  C  C  C  C   C   C   C  C  C  C  C   C  C  C   C  C  C  C   C  C  C  C  C  C  C   I    S   C  C   C   C  C  C  C  C  C   I    S   S  C  C  C  C  C
+114 #csid 224 12 4 2
+115 ref  O  N  EU  R  EU  N  H  A  N  G  U  G  EO  S  U  EO  B  I  I  SS  EO  iO  S  U  EO  B  EU  N  O  J  EO  N  A  O  p  S  I  E  S  I  J  A  Kh  E  iO   J   I  B  E  S  EO  H  A   k   GG  iO  GG  A  J  I  S  A  M  S  I  p  B   U   N  I  G  EO  L  L  iEO  iO  I  L  G  O  p  ***  S  I  E  I  R  EO  N  A  S  EO  A  CHh  I  M   EU  L  M  EO  G  EO  SS  EO  iO  iEO  D  EO  L  B  S  I  E  J  I  B  E  S  EO  N  A  G  A  SS  EO  iO  J  I  A  CHh  EO  R  iEO   G  E  D  O  CHh  A  Kh  E  SS  EO  iO  G  EU  R  EO  N  D  E  J  I  G   A  B  I  EO  p  SS  EO  SS  EO  iO  D  A  S  I  J  I  B  E  G  A  SS  EO  iO  CHh  E  k  SS  A  NG   UI  E  J  I  G  A  B  I  I  SS  EO  SS  EO  iO  J  I  A  CHh  EO  R  iEO   k   GG  A  J  I  DD  UI  EO  S  EO  G  A  SS  EO  iO  H  A  ***  k  GG  iO  E  ***  iEO  D  EO  L  B  S  I  O  ***  S  I   M   O   B    U  N  E  D  O  CHh  A  Kh  E  SS  EO  iO  S  U  EO  B  E  A  N  N   EU   J   EO  t  JJ  I  M  A  N  J  EO  NG  M  A  L  H  I  M  D  EU  R  EO  SS  EO  iO
+115 hyp  O  N  EU  R  EU  N  H  A  N  G  U  G  EO  S  U  EO  B  I  I  SS  EO  iO  S  U  EO  B  EU  N  O  J  EU  M  A  O  p  S  I  E  S  I  J  A  Kh  E  iO  ***  I  B  E  S  EO  H  A  ***  GG  iO  GG  A  J  I  S  A  M  S  I  p  B  ***  N  I  G  EO  L  L  iEO  iO  I  L  G  O  p   I   S  I  E  I  R  EO  N  A  S  EO  A  CHh  I  M  ***  E  M  EO  G  EO  SS  EO  iO  iEO  D  EO  L  B  S  I  E  J  I  B  E  S  EO  N  A  G  A  SS  EO  iO  J  I  A  CHh  EO  L  iEO  Kh  E  D  O   JJ  A  Kh  E  SS  EO  iO  G  EU  R  EO  N  D  E  S  I  G  EU  M  I  EO  p  SS  EO  SS  EO  iO  D  A  S  I  J  I  B  E  G  A  SS  EO  iO   S   I  k  SS  A  NG  ***  E  J  I  G  A  B  I  I  SS  EO  SS  EO  iO  J  I  A  CHh  EO  L  iEO  ***  GG  A  J  I   D   U   E  S  EO  G  A  SS  EO  iO  H  A   N   G   U   G  E  iEO  iEO  D  EO  L  B  S  I  O   p   S  I  ***  O  ***  EO  N  E  D  O   JJ  A  Kh  E  SS  EO  iO  S  U  EO  B  E  A  N  N  ***  ***   O  A  JJ  I  M  A  N  J  EO  NG  M  A  L  H  I  M  D  EU  R  EO  SS  EO  iO
+115 op   C  C   C  C   C  C  C  C  C  C  C  C   C  C  C   C  C  C  C   C   C   C  C  C   C  C   C  C  C  C   S  S  C  C  C  C  C  C  C  C  C  C   C  C   C   D   C  C  C  C   C  C  C   D    C   C   C  C  C  C  C  C  C  C  C  C  C   D   C  C  C   C  C  C   C    C  C  C  C  C  C   I   C  C  C  C  C   C  C  C  C   C  C   C   C  C   D   S  C   C  C   C   C   C   C   C   C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C   C   C   C  C  C  C   C    C  S   C    S  C  C  C   S   C   C  C   C   C   C  C   C  C   C  C  C  C  S  C  C   S  S  C   C  C   C   C   C   C   C  C  C  C  C  C  C  C  C  C  C   C   C   C   S   S  C   C  C   C   D   C  C  C  C  C  C  C  C   C   C   C   C   C  C  C  C   C    C  S   C    D    C  C  C  C   S   S   S  C   C  C  C   C   C   C  C  C   I   S   S   S  C   I    C   C   C  C  C  C  C  C   I   C  C   D   C   D    S  C  C  C  C   S   C   C  C   C   C   C  C  C   C  C  C  C  C  C   D    D    S  S   C  C  C  C  C  C   C   C  C  C  C  C  C  C  C   C  C   C   C   C   C
+115 #csid 250 22 4 10
+116 ref  S  I  M  M  A  N  uEO  N  M  A  N  B   I   L  L  iEO  J  U  L  S  U  I  SS  EO  iO
+116 hyp  S  I  M  M  A  N  uEO  N  M  A  N  B  iEO  L  L  iEO  J  U  L  S  U  I  SS  EO  iO
+116 op   C  C  C  C  C  C   C   C  C  C  C  C   S   C  C   C   C  C  C  C  C  C   C   C   C
+116 #csid 24 1 0 0
+117 ref  J  EO  N  EU  N  J  I  G  EU  M   EU   M  N  iO  S  U  A  G  O  GG  O  CHh  EU  L  S   A  R  EO  G  A  t  DD  A  oA  iA  D  OE  iO
+117 hyp  J  EO  N  EU  N  J  I  G  EU  M  ***  EO  N  iO  S  U  A  G  O  GG  O  CHh  EU  L  S  EU  R  EO  G  A  t  DD  A  oA  iA  D  OE  iO
+117 op   C   C  C   C  C  C  C  C   C  C   D    S  C   C  C  C  C  C  C   C  C   C    C  C  C   S  C   C  C  C  C   C  C   C   C  C   C   C
+117 #csid 35 2 0 1
+118 ref  EU  M  S  I  ***  ***  k  M  A  N  D  EU  N  EU  N  G  EO  S  EU  L  J  O  A  A  S  E  iO
+118 hyp  EU  M  S  I   G    EU  L  M  A  N  D  EU  N  EU  N  G  EO  S  EU  L  J  O  A  A  S  E  iO
+118 op    C  C  C  C   I    I   S  C  C  C  C   C  C   C  C  C   C  C   C  C  C  C  C  C  C  C   C
+118 #csid 24 1 2 0
+119 ref   G   EU   M    iO   I   R   I  J  O  A  iO   I    R   iO  I  R  I  J  O  ***  A  ***  iO
+119 hyp  ***  EU  ***  ***  ***  N  EU  G  O  R  iO  ***  ***  iO  I  R  I  N  O   A   A   D    A
+119 op    D    C   D    D    D   S   S  S  C  S   C   D    D    C  C  C  C  S  C   I   C   I    S
+119 #csid 9 6 2 6
+120 ref  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  H  E  ***  ***  N  N  EU  N  J  I  S  E   NG  G  A  k  N  A  S  E  iO
+120 hyp  I  L  N  iEO  N  J  EO  N  U  R  I  G  A  H  A  N  G  U  NG  M  A  R  EU  L  EO  DD  EO  Kh  E  H  E   N    EU  N  N  EU  N  J  I  S  E  ***  G  A  k  N  A  S  E  iO
+120 op   C  C  C   C   C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C  C   C  C   C   C   C   C  C  C  C   I    I   C  C   C  C  C  C  C  C   D   C  C  C  C  C  C  C   C
+120 #csid 47 0 2 1
+121 ref   Th  OE  G  EU  N  S  I  G  A  N  I  R  A  S  EO  G  I  R  I  M  A  N  I  M  A  Kh  I  N  A  B  oA  iO
+121 hyp  ***  OE  G  EU  p  S  I  G  A  N  I  R  A  S  EO  G  I  R  I  M  A  N  I  M  A  Kh  A  N  I  B  oA  iO
+121 op    D    C  C   C  S  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C   C  S  C  S  C   C   C
+121 #csid 28 3 0 1
+122 ref  EO  L  G  U  R  I  A  N  J  O  ***  EU  N  D  E  M  U  S  EU  N  I   L   I  SS  EO   iO
+122 hyp  EO  L  G  U  R  I  A  N  J  O   EU  EU  N  D  E  M  U  S  EU  N  I  SS  EO  SS  EO  ***
+122 op    C  C  C  C  C  C  C  C  C  C   I    C  C  C  C  C  C  C   C  C  C   S   S   C   C   D 
+122 #csid 22 2 1 1
+123 ref  S  E  J  I   k   JJ  A   NG  I  M  A  EU  M  E  D  EU  L  M  iEO  N  ***  J  O  Kh  E  ***   N   N  E  iO
+123 hyp  S  E  J  I  ***  JJ  A  ***  I  M  A  EU  M  E  D  EU  L  M  iEO  N   EU  J  O  Kh  E   S   SS  EU  M   N
+123 op   C  C  C  C   D    C  C   D   C  C  C   C  C  C  C   C  C  C   C   C   I   C  C   C  C   I    S   S  S   S
+123 #csid 22 4 2 2
+124 ref  A  B  EO  J  I  oA  EO  M  EO  N  I  J  U   NG  E  S  EO  N  U  G  U  A  G  O  D  A  L   M   A  SS  EO  iO
+124 hyp  A  B  EO  J  I  oA  EO  M  EO  N  I  J  U  ***  E  S  EO  N  U  G  U  A  G  O  D  U  L  ***  A  SS  EO  iO
+124 op   C  C   C  C  C   C   C  C   C  C  C  C  C   D   C  C   C  C  C  C  C  C  C  C  C  S  C   D   C   C   C   C
+124 #csid 29 1 0 2
+125 ref  I  I  R  EU  N  J  E  G  A  H  A  N  B  EO  N  E  B  O  L  G  E  iO
+125 hyp  I  I  R   I  N  J  E  G  A  H  A  N  B  EO  N  E  B  O  L  G  E  iO
+125 op   C  C  C   S  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C   C
+125 #csid 21 1 0 0
+126 ref  J  OE  S  O  NG  H  A  J  I  M  A  N  ***  ***  M  O  Th  A  G  E  S  SS  EU  M  N  I  D  A
+126 hyp  J  OE  S  O  NG  H  A  J  I  M  A  N   M    O   M  O  Th  A  G  E  S  SS  EU  M  N  I  D  A
+126 op   C   C  C  C   C  C  C  C  C  C  C  C   I    I   C  C   C  C  C  C  C   C   C  C  C  C  C  C
+126 #csid 26 0 2 0
+127 ref  J  A  L  A  N  EU  N  J  I  S  I  D  A
+127 hyp  J  A  L  A  N  EU  N  J  I  M  I  D  A
+127 op   C  C  C  C  C   C  C  C  C  S  C  C  C
+127 #csid 12 1 0 0
+128 ref  M  I  A  N  G  I  R  I  ***  M  A  Kh  iEO  ***  N  EU  J  EO  SS  EO
+128 hyp  M  I  A  N  G  A  J  I   A   M  A  Kh  iEO   N   N  EU  J  EO  SS  EO
+128 op   C  C  C  C  C  S  S  C   I   C  C   C   C    I   C   C  C   C   C   C
+128 #csid 16 2 2 0
+129 ref  I  G  E  D  A  N  I  CHh  E  ***  G  I  M  I  iA
+129 hyp  I  G  E  D  A  N  I  CHh  E   G   G  I  M  I  iA
+129 op   C  C  C  C  C  C  C   C   C   I   C  C  C  C   C
+129 #csid 14 0 1 0
+130 ref  I  G  EO  J  OE  S  O  NG  H  E  S  ***  ***  ***  EO  EO  DD  EO  Kh  A  CHh  iO
+130 hyp  I  G  EO  J  OE  S  O  NG  H  E  S   EO   EO   DD  EO  EO  DD  EO  Kh  A  CHh  iO
+130 op   C  C   C  C   C  C  C   C  C  C  C   I    I    I    C   C   C   C   C  C   C    C
+130 #csid 19 0 3 0
+131 ref  I  DD  A  J  EO  N  oA  A  L  G  E
+131 hyp  I  DD  O  J  EO  N  oA  A  L  G  E
+131 op   C   C  S  C   C  C   C  C  C  C  C
+131 #csid 10 1 0 0
+132 ref  I  B  EO  N  E   N   J  EO  L  D  E  R  O  S  I  L  S  U  A  J  I  A  N  EU  L   G    EO   iA
+132 hyp  I  G  EO  N  E  ***  J  EO  L  D  E  R  O  S  I  L  S  U  A  J  I  A  N  EU  L  ***  ***  ***
+132 op   C  S   C  C  C   D   C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  C   D    D    D 
+132 #csid 23 1 0 4
+133 ref  N  A  S  I  EO  M  B  E  k  JJ  EO  M   B   A   D   A  t  D  A   B    U   R   EO   p   JJ  I
+133 hyp  N  A  S  I  EO  M  B  E  k  JJ  EO  M  ***  A  ***  A  t  D  A  ***  ***  R  ***  ***   I  M
+133 op   C  C  C  C   C  C  C  C  C   C   C  C   D   C   D   C  C  C  C   D    D   C   D    D    S  S
+133 #csid 18 2 0 6
+134 ref   G   EU  G  EO  t  DD  O  O  S  I  R  A  G  O  I  p  GG  O  D  A  N  I  N  I
+134 hyp  ***  EU  G  EO  t  DD  O  O  S  I  R  A  G  O  I  p  GG  O  D  A  N  I  N  I
+134 op    D    C  C   C  C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C
+134 #csid 23 0 0 1
+135 ref  O  N  EU  R  EU  N  J  I  A  CHh  EO  L  Th  A  G  O   G   A  J  A
+135 hyp  O  N  EU  R  EU  N  J  I  A  CHh  EO  L  Th  A  G  O  ***  A  J  A
+135 op   C  C   C  C   C  C  C  C  C   C    C  C   C  C  C  C   D   C  C  C
+135 #csid 19 0 0 1
+136 ref  S  U  EO  M  A  J  I  k  A  N  GG  EU  N  N  A  ***  SS  EU  L  G  EO  L
+136 hyp  S  U  EO  M  A  J  I  k  A  N  GG  EU  N  N  A   N   SS  EU  L  G  EO  L
+136 op   C  C   C  C  C  C  C  C  C  C   C   C  C  C  C   I    C   C  C  C   C  C
+136 #csid 21 0 1 0
+137 ref  CHh  A  M  J  A  L  H  E  t  GG  U  N  A
+137 hyp  CHh  A  M  J  A  L  H  E  N  GG  U  N  A
+137 op    C   C  C  C  C  C  C  C  S   C  C  C  C
+137 #csid 12 1 0 0
+138 ref  BB  A   L   L  I
+138 hyp  BB  A  ***  L  I
+138 op    C  C   D   C  C
+138 #csid 4 0 0 1
+139 ref  CHh  E  S  O
+139 hyp   S   E  S  U
+139 op    S   C  C  S
+139 #csid 2 2 0 0
+140 ref  GG  O  R  I
+140 hyp   H  O  R  I
+140 op    S  C  C  C
+140 #csid 3 1 0 0
+141 ref  B  A  BB  EU   D  A
+141 hyp  B  A  Ph   A  DD  A
+141 op   C  C   S   S   S  C
+141 #csid 3 3 0 0
+142 ref  J  ***  U  NG  G  U  k
+142 hyp  J   EO  L  NG  G  U  k
+142 op   C   I   S   C  C  C  C
+142 #csid 5 1 1 0
+143 ref  G  EU  ***  R  I  M
+143 hyp  G  EU   NG  N  I  M
+143 op   C   C   I   S  C  C
+143 #csid 4 1 1 0
+144 ref  iA  ***   G  U  ***
+144 hyp  iA   k   GG  U   k 
+144 op    C   I    S  C   I 
+144 #csid 2 1 2 0
+145 ref  S  A  euI
+145 hyp  J  A   I 
+145 op   S  C   S 
+145 #csid 1 2 0 0
+146 ref  ***  ***  M  U  N  euI
+146 hyp   G    U   M  O  N   I 
+146 op    I    I   C  S  C   S 
+146 #csid 2 2 2 0
+147 ref  G  A   EU  L
+147 hyp  G  A  ***  M
+147 op   C  C   D   S
+147 #csid 2 1 0 1
+148 ref  G   EU  Ph  A  D  A
+148 hyp  G  ***   U  A  D  A
+148 op   C   D    S  C  C  C
+148 #csid 4 1 0 1
+149 ref  G  iEO  k  DD  A
+149 hyp  G  ***  I   D  A
+149 op   C   D   S   S  C
+149 #csid 2 2 0 1
+150 ref  H  E  D  O   D   I
+150 hyp  H  E  D  O  ***  I
+150 op   C  C  C  C   D   C
+150 #csid 5 0 0 1
+151 ref  G  ***  ***  iO  iU  G  iEO   R 
+151 hyp  G   I    N    N  iU  R  iEO  ***
+151 op   C   I    I    S   C  S   C    D 
+151 #csid 3 2 2 1
+152 ref  J  A  NG  N  iEO  N
+152 hyp  J  A  NG  N  iEO  k
+152 op   C  C   C  C   C   S
+152 #csid 5 1 0 0
+153 ref   G    U  NG  N  I
+153 hyp  ***  GG   O  R  I
+153 op    D    S   S  S  C
+153 #csid 1 3 0 1
+154 ref  SS  O  D   A  iO
+154 hyp  SS  I  D  EO  iO
+154 op    C  S  C   S   C
+154 #csid 3 2 0 0
+155 ref  GG  E  GG  EU  S  I
+155 hyp   H  E  GG   A  B  I
+155 op    S  C   C   S  S  C
+155 #csid 3 3 0 0
+156 ref  I  N   N  iU
+156 hyp  I  N  iU   k
+156 op   C  C   S   S
+156 #csid 2 2 0 0
+157 ref  N  EO  EO  iO
+157 hyp  N  EO   S  iO
+157 op   C   C   S   C
+157 #csid 3 1 0 0
+158 ref  ***   N   EO  EO  iO
+158 hyp   G   uEO   N   A  iO
+158 op    I    S    S   S   C
+158 #csid 1 3 1 0
+159 ref  euI  S  A  S  O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU  G  I   G  A  Th  EU  N  Ph  iO  iEO  N  G  I  N   EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  D  EU   t   GG  I  oA  I   k   GG  I   G  A  Th  EU  N  G  I  N  EU  NG  I  D   EO  J  U  NG  iO  A  L  GG  A  N  A  N  EU  N  I  E  iEO  NG  ***  iEO  G  I  D  EO  J  U  NG  iO  A  G  O  Th  EU   Kh  I  D  EU   t    GG  I  G  A  G  I  B  O  N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N   I   euI  M  A  R  EU  L  D  EU   t   GG  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S   O  Th  O  NG  EU  L   G   iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  U  N  I  D  A   D   A  R  A  S  EO  J  I  N  J  EO  NG  H  A  N  euI  S  A  S  O  Th  O  NG  EU   N   D  EU   t   GG  I  E  S  EO  B  U  Th  EO  S  I  J  A  Kh  A   N   D  A  G  O  J  U   J  A  NG  H  A  G  O  S  I  p  DD  A
+159 hyp  euI  S  A  S  O  Th  O  NG  G  oA  J  EO   N  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS   U  G  I  Kh  A  Th   O  N   G  iO  iEO  N  G  I  N  ***  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  D  EU  ***   G  I  oA  I  ***   J  I  Kh  A  Th  EU  N  G  I  N  EU  NG  I  D  ***  J  U  NG  iO  A  L  GG  A  N  A  N  EU  N  I  E   iO  NG   N   iEO  G  I  D  EO  J  U  NG  iO  A  G  O  Th  EU  ***  I  D  EU  ***  ***  I  G  A  G  I  B  U  R  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N  ***  euI  M  A  R  EU  L  D  EU  ***   G  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S  EO  Th  O  NG  EU  L  ***  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  U  N  I  D  A  ***  A  R  A  S  EO  J  I  N  J  EO   N  H  A  N  euI  S  A  S  O  Th  O  NG  EU  ***  L  EU  ***   G  I  E  S  EO  B  U  Th  EO  J  I  J  A  Kh  A  ***  D  A  G  O  J  U  NG  S   A  N  A  G  O  S  I  p  DD  A
+159 op    C   C  C  C  C   C  C   C  C   C  C   C   S  C  C   C  C  C   C  C  C  C  C  C  C  C   C   C   S  C  C   S  C   C   S  C   S   C   C   C  C  C  C   D    C  C  C   C  C  C   C   C  C  C   C  C  C   C   D    S  C   C  C   D    S  C   S  C   C   C  C  C  C  C   C   C  C  C   D   C  C   C   C  C  C   C  C  C  C  C   C  C  C  C   S    C   I    C   C  C  C   C  C  C   C   C  C  C  C   C   C   D   C  C   C   D    D   C  C  C  C  C  C  S  S  C  C  C  C  C  C  C   C  C  C   C  C  C  C  C  C  C  C   C  C   D    C   C  C  C   C  C  C   C   D    S  C  C   C  C  C  C   C  C  C  C  C   C   C   C  C  C   S   C  C   C   C  C   D    C  C  C   C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C   D   C  C  C  C   C  C  C  C  C   C   S  C  C  C   C   C  C  C  C   C  C   C   C   D   S   C   D    S  C  C  C   C  C  C   C   C  S  C  C  C   C  C   D   C  C  C  C  C  C   S  S   S  S  C  C  C  C  C  C   C  C
+159 #csid 225 21 1 14
+160 ref  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  ***  EU  L  S  A  R  A  NG  H  A  N  D  A  iE  J  EO  N  ***  U  R  I  iU  CHh  I  uEO  N  S  EO  N  S  E  NG  N  I  M   I   J  U  S  I  N  S  E  k  JJ   O  NG  I  G  A  Th  EU  N  BB  A  L   G   A  N  S  E  k  B  O  R  A  S  E  k   J   A  J  U  S  E  k  N  O   k   SS  E   k   I  R  EO  N  S  E  k  GG  A  R  EU  L  N  A  N  EU  N  J  O  A  A  N  D   A    N   A  N  EU  N  U  R  I  N  A  R  A   G  A  EU  L  H  A  N  EU   R   EU  L  S  A  R  A   NG  H  A  N  D   A    N   A  N  EU  N   O  R  E  D  OE  N   G  A  G   U   euI  S  E  G  EU  L  J  O  A  A  N  D  A  N   EU  L   G  EO   G  A  N  EU  N  H  A   k   JJ  A  euI   H   euI  GG  EU  Th  euI  GG  EU  Th  A  N   M   EO  R  I  Kh  A  R  A  G  EU  R  J  O  A  A  N  D  A   N   A  N  EU  N  I  R  EU  N  A  ***  CHh  I  M  euI  S  E  S   O  R  I  R  EU  L  J  O  A  A  M  iEO  B  O  M  S  I   N    E   N  M   U  L  H  EU  R  EU  N  EU  N  S   O  R  I   R   EU  L  J  EU  L  G  I  N  D  A  G   A  L  D  E   E   B  U  N  EU  N  B  A  R  A  M  S   O  R  I  R  EU  L  J  O  A  A  M  iEO  B  A   D  A  euI   Ph  A   D  O  S   O  R   I   R  EU  L  D  EU   R   EU  M  iEO   N   A  J  I  k  DD   O  G   A    S  EU  M  I  DD  UI  N  D  A
+160 hyp  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G   A   EU  L  S  A  R  A   M  H  A  N  D  A  iE  J  EO  N   E   U  R  I  iU   J   I  uEO  N  S  EO  N  S  E  NG  N  I  M  ***  J  U  S  I  N  S  E  k   J  EO  NG  I  G  A  Th  EU  N  BB  A  L  ***  A  N  S  E  k  B  O  R  A  S  E  k  ***  A  J  U  S  E  k  N  O  ***  SS  E  ***  I  R  EO  N  S  E  k  Kh  A  R  EU  L  N  A  N  EU  L  J  O  A  A  N  D  ***  ***  A  N  EU  N  U  R  I  N  A  R  A  Kh  A  EU  L  H  A  N  EU  ***  EU  L  S  A  R  A  ***  N  A  N  D  ***  ***  A  N  EU  N  EO  R  E  t  DD  N  Kh  A  G  ***   OE  S  E  G  EU  L  J  O  A  A  N  D  A  N  ***  U  Kh   U  Kh  A  N  EU  N  H  A  ***  JJ  A  euI  ***   I   Kh   I   M   I   DD  EU  Th  A  N  ***  EO  R  I  Kh  A  R  A  G  EU  L  J  O  A  A  N  D  A  ***  A  N  EU  N  I  R  EO  N  A   t    SS  I  M  euI  S  E  S  EO  R  I  R  EU  L  J  O  A  A  M  iEO  B  O  M  S  I  ***  ***  A  M  EU  L  H  EU  R  EU  N  EU  N  S  EO  R  I  ***  EU  L  J  EU  L  G  I  N  D  A  G  EO  L  R  A  euI  B  U  R  EU  N  B  A  R  A  M  S  EO  R  I  R  EU  L  J  O  A  A  M  iEO  B  A  Ph  A  euI  ***  B  DD  O  S  EO  R  ***  R  EU  L  D  EU  ***   L  M  iEO  ***  A  J  I  k  DD  EO  G  ***  SS  EU  M  I   D  OE  N  D  A
+160 op   C  C  C   C  C  C  C   C  C  C  C  C  C  C  C  C   I    C  C  C  C  C  C   S  C  C  C  C  C   C  C   C  C   I   C  C  C   C   S   C   C   C  C   C  C  C  C   C  C  C  C   D   C  C  C  C  C  C  C  C   S   S   C  C  C  C   C   C  C   C  C  C   D   C  C  C  C  C  C  C  C  C  C  C  C   D   C  C  C  C  C  C  C  C   D    C  C   D   C  C   C  C  C  C  C   S  C  C   C  C  C  C  C   C  S  C  C  C  C  C  C   D    D   C  C   C  C  C  C  C  C  C  C  C   S  C   C  C  C  C  C   C   D    C  C  C  C  C  C   D   S  C  C  C   D    D   C  C   C  C   S  C  C  S   S  C   S  C  C   D    S   C  C  C   C  C  C  C  C  C  C  C  C  C   D   S   S   S   S  C  C   C  C  C  C   D    C  C   C    D    S    S   S   S   S    S   C   C  C  C   D    C  C  C   C  C  C  C  C   C  S  C  C  C  C  C  C  C   D   C  C   C  C  C  C   S  C  C   I    S   C  C   C   C  C  C   S  C  C  C   C  C  C  C  C  C  C   C   C  C  C  C  C   D    D   S  C   S  C  C   C  C   C  C   C  C  C   S  C  C   D    C  C  C   C  C  C  C  C  C  C  C   S  C  S  S   S   C  C  S   C  C  C  C  C  C  C  C   S  C  C  C   C  C  C  C  C  C  C   C   C  C   S  C   C    D   S   S  C  C   S  C   D   C   C  C  C   C   D    S  C   C    D   C  C  C  C   C   S  C   D    S   C  C  C   S   S  C  C  C
+160 #csid 287 45 3 25
+161 ref  M  U  R  I  Ph  A  L  Ph  A  L  G  EU  N  N  EU  N  D  E  OE  B  U  R  EU  L  A  N  G  EU  G  O  G  A  M  A  N  I  I  SS  EO   iO
+161 hyp  M  U  R  I  Ph  A  L  Ph  A  L  G  EU  N  N  EU  N  D  E  OE  B  U  R  EU  L  A  N  G  EU  G  O  G  A  M  A  N  I  I  SS  EO  ***
+161 op   C  C  C  C   C  C  C   C  C  C  C   C  C  C   C  C  C  C   C  C  C  C   C  C  C  C  C   C  C  C  C  C  C  C  C  C  C   C   C   D 
+161 #csid 39 0 0 1
+162 ref  S  E  R  O  S  E  NG  G  I  N  S  I  k  DD  A  NG  E  G  A  B  oA  N  N  EU  N  D  E  B  U  N   UI   G   I  G  A  A  J  U  J  O  Th  EO  N  D  E  iO
+162 hyp  S  E  R  O  S  E  NG  G  I  N  S  I  k  DD  A  NG  E  G  A  B  oA  N  N  EU  N  D  E  B  U  N  ***  ***  I  G  A  A  J  U  J  O  Th  EO  N  D  E  iO
+162 op   C  C  C  C  C  C   C  C  C  C  C  C  C   C  C   C  C  C  C  C   C  C  C   C  C  C  C  C  C  C   D    D   C  C  C  C  C  C  C  C   C   C  C  C  C   C
+162 #csid 44 0 0 2
+163 ref  OE  H  A  NG  S  A  NG  EO  N  N  I  iO  NG  D  O  N  EU  N  M  A  N  Kh  O  N  E  iO   NG  D  O  N  EU  N  J  O  G  EU  M  I  J  I
+163 hyp  OE  H  A  NG  S  A  NG  EO  N  N  I  iO  NG  D  O  N  EU  N  M  A  N  Kh  O  N  E  iO  ***  D  O  N  EU  N  J  O  G  EU  M  I  J  I
+163 op    C  C  C   C  C  C   C   C  C  C  C   C   C  C  C  C   C  C  C  C  C   C  C  C  C   C   D   C  C  C   C  C  C  C  C   C  C  C  C  C
+163 #csid 39 0 0 1
+164 ref  I   EO   M    M    OE   J   EO   Kh   A    Ph   A    N    S    A    R    A   M   I    I    SS   EU  M  iEO   N    EO   N    J   E   D    EU   N   J   I    M    A  L   SS   EU   M    H    E    J    U    S    E  iO
+164 hyp  I  ***  ***  ***  ***  ***  EO  ***  ***  ***  ***  ***  ***  ***  ***  ***  M  ***  ***  ***  ***  M  ***  ***  ***  ***  ***  E  ***  ***  ***  J  ***  ***  EO  L  ***  ***  ***  ***  ***  ***  ***  ***  Kh   A
+164 op   C   D    D    D    D    D    C   D    D    D    D    D    D    D    D    D   C   D    D    D    D   C   D    D    D    D    D   C   D    D    D   C   D    D    S  C   D    D    D    D    D    D    D    D    S   S
+164 #csid 7 3 0 36
+165 ref  J  EO  euI  B  E  Kh  oA  J  EO  M  EU  L  CHh  A  J  A  J  U  S  iEO  S  EO  G  A  M  S   A   A  M  N  I  D  A
+165 hyp  J  EO  euI  B  E  Kh  oA  J  EO  M  EU  L  CHh  A  J  A  J  U  S  iEO  S  EO  G  A  M  S  ***  A  M  N  I  D  A
+165 op   C   C   C   C  C   C   C  C   C  C   C  C   C   C  C  C  C  C  C   C   C   C  C  C  C  C   D   C  C  C  C  C  C
+165 #csid 32 0 0 1
+166 ref  G  iEO   k   DD  A
+166 hyp  J  iEO  ***  Th  A
+166 op   S   C    D    S  C
+166 #csid 2 2 0 1
+167 ref  B  I  CHh  EU  ***  L
+167 hyp  B  I  CHh  EU   L   L
+167 op   C  C   C    C   I   C
+167 #csid 5 0 1 0
+168 ref  B  A  GG  EU  N
+168 hyp  B  A  Kh  EU  N
+168 op   C  C   S   C  C
+168 #csid 4 1 0 0
+169 ref  J  O  EU   N 
+169 hyp  J  O  EU  ***
+169 op   C  C   C   D 
+169 #csid 3 0 0 1
+170 ref  euI  S  A  S   O  Th  O  NG  G  oA  J  EO  NG  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA  SS  EU   G   I  G  A  Th  EU  N  Ph  iO  iEO  N  G  I   N    EU  NG  I   D   EO  J  U  NG  iO  A   L   GG  A  D  EU   t   GG  I  oA  I  k  GG  I  G  A  Th  EU  N  G  I  N  EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  N  A  N  EU  N  I  E  iEO   NG  iEO  G   I  D  EO  J  U  NG  iO  A  G  O  Th  EU  Kh  I   D   EU   t   GG  I  G  A  G  I  B   O   N  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N   I   euI  M  A  R  EU  L  D  EU   t   GG  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S   O  Th  O  NG  EU  L  G  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  U  N  I  D  A  D  A  R  A  S  EO  J  I  N  J  EO   NG  H  A  N  euI  S  A  S  O  Th  O  NG  EU  N  D  EU   t   GG  I  E  S  EO  B  U  Th  EO  S  I  J  A  Kh  A   N   D  A  G  O  J  U  J  A  NG  H  A  G   O  S  I  p  DD  A
+170 hyp  euI  S  A  S  EO  Th  O   N  G  oA  J  EO   N  J  U  NG  E  S  EO  M  A  R  H  A  G  I  oA   D  EU  ***  I  G  A  Th  EU  N  Ph   E   EO  M  G  I  ***  ***   R  I  ***  EO  J  U  NG  iO  A  ***  GG  A  D  EU  ***  Kh  I  oA  I  N  Kh  I  G  A  Th  EU  N  G  I  R  EU  NG  I  D  EO  J  U  NG  iO  A  L  GG  A  N  A  N   E  N  I  E  iEO  ***   N   G  EO  I  EO  J  U  NG  iO  A  G  O   D  EU  Kh  I  ***  EU  ***   G  I  G  A  G  I  B  oA  NG  I  R  A  G  O  S  E  NG  G  A  Kh  A  N  D  A  D  A  R  EU  N  ***   E   M  A  R  EU  L  D  EU  ***   G  O  G  EU  M  A  R  EU  L  I  E  E  iA  euI  S  A  S  EO  Th  O  NG  EU  L  G  iE  S  O  Kh  A  L  S  U  I  t  GG  I  D  E  M  U  N  I  D  A  D  A  R  A  S  EO  S  I  N  J  EO  ***  N  A  N  euI  S  A  S  O  Th  O  NG  EU  N  D  EU  ***  GG  I  E  S  EO  B  U  Th  EO  S  I  J  A  Kh  A  ***  D  A  G  O  J  U  J  U  NG  H  A  G  EO  S  I  p  DD  A
+170 op    C   C  C  C   S   C  C   S  C   C  C   C   S  C  C   C  C  C   C  C  C  C  C  C  C  C   C   S   C   D   C  C  C   C   C  C   C   S   S   S  C  C   D    D    S  C   D    C  C  C   C   C  C   D    C  C  C   C   D    S  C   C  C  S   S  C  C  C   C   C  C  C  C  S   C   C  C  C   C  C  C   C   C  C  C   C  C  C  C  C   S  C  C  C   C    D    S   C   S  S   C  C  C   C   C  C  C  C   S   C   C  C   D    C   D    S  C  C  C  C  C  C   S   S  C  C  C  C  C  C  C   C  C  C   C  C  C  C  C  C  C  C   C  C   D    S   C  C  C   C  C  C   C   D    S  C  C   C  C  C  C   C  C  C  C  C   C   C   C  C  C   S   C  C   C   C  C  C   C  C  C   C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C   C  S  C  C  C   C   D   S  C  C   C   C  C  C  C   C  C   C   C  C  C   C   D    C  C  C  C   C  C  C   C   C  C  C  C  C   C  C   D   C  C  C  C  C  C  C  S   C  C  C  C   S  C  C  C   C  C
+170 #csid 219 27 0 14
+171 ref  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A  R  A  NG  H  A  N  D  A   iE  J  EO  N  U  R  I  iU  CHh  I  uEO  N  S  EO  N  S  E   NG  N  I  M  I  J  U  S  I  N  S  E  k  JJ   O  NG  I  G  A  Th  EU  N  BB  A  L  G  A  N  S  E  k   B   O  R  A  S  E  k  J  A  J  U  S  E   k   N  O   k   SS  E   k   I  R  EO  N  S  E  k  GG  A  R  EU   L    N   A  N  EU  N  J  O  A  A  N  D  A  N  A  N  EU  N  U  R  I  N  A  R  A  G  A  EU  L  H  A  N  EU   R   EU  L  S  A  R  A  NG  H  A  N  D  A  N  A  N  EU  N   O  R  E  ***  ***   D  OE  N  G  A  G  U  euI  S  E  G  EU  L  J  O  A  A  N  D  A  N  EU   L    G  EO  G  A  N  EU  N  H  A  k  JJ  A  euI   H   euI  GG   EU  Th  euI  GG  EU  Th  A  N  M  EO  R  I   Kh  A  R  A  G  EU  R  J  O  A  A  N  D  A  N  A  N   EU  N  I  R  EU  N  A  CHh  I  M  euI  S  E  S   O  R  I  R  EU  L  J  O  A  A  M  iEO  ***  B   O  M  S  I  N   E    N  M  U  L   H   EU  R  EU  N  EU  N  S   O  R  I  R  EU  L  J  EU   L   G   I  N  D  A  G  A  L  D   E   E  B  U  N  EU  N  B  A  R  A  M  S   O  R  I  R  EU  L  J  O   A   A  M  iEO  ***  B  A  D  A  euI   Ph   A   D  O  S   O  R   I   R  EU  L  D  EU  R  EU  M  iEO  N  A  J  I  k  DD  O  G   A    S  EU  M  I  DD  UI  N  D  A
+171 hyp  N  A  N  EU  N  A  R  EU  M  D  A  U  N  S  E  G  EU  L  S  A  R  A  NG  H  A  N  D  A  ***  J  EO  N  U  R  I  iU   Kh  I   EO  N  S  EO  N  S  E  ***  N  I  M  I  J  U  S  I  N  S  E  k   J  EO  NG  I  G  A  Th  EU  N  BB  A  L  G  A  N  S  E  k  BB  EO  R  A  S  E  k  J  A  J  U  S  E  ***  N  O  ***  SS  E  ***  I  R  EO  N  S  E  k   G  A  R  EU  ***  ***  A  N  EU  N  J  O  A  A  N  D  A  N  A  N  EU  N  U  R  I  N  A  R  A  G  A  EU  L  H  A  M  EU  ***  EU  L  S  A  R  A  NG  H  A  N  D  A  N  A  N  EU  N  EO  N  E   t    DD  EO   E  N  G  A  L  G  euI  S  E  G  EU  L  J  O  A  A  N  D  A  N  EU  ***  Kh  EO  G  A  N  EU  N  H  A  L   J  A  euI  ***   I    G  iEO  Th   I    G  EU  Th  A  N  M  EO  R  I  ***  G  R  A  G  EU  L  J  O  A  A  N  D  A  N  A  N  ***  N  I  R  EU  N  A  CHh  I  M   E   S  E  S  EO  R  I  R  EU  L  J  O  A  A  M  iEO   N   B  EO  M  S  I  N  ***  EU  M  U  L  ***  EU  R  EU  N  EU  N  S  EO  R  I  R  EU  L  J  EU  ***  G  EU  N  D  A  G  A  L  D  ***  E  B  O  N  EU  N  B  A  R  A  N  S  EO  R  I  R  EU  L  J  O  ***  A  M  iEO   N   B  A  D  A  euI  ***  oA  Th  O  S  EO  R  ***  R  EU  L  D  EU  R  EU  M  iEO  N  A  J  I  k  DD  O  G  ***  SS  EU  M  I   D  EU  N  D  A
+171 op   C  C  C   C  C  C  C   C  C  C  C  C  C  C  C  C   C  C  C  C  C  C   C  C  C  C  C  C   D   C   C  C  C  C  C   C   S   C   S   C  C   C  C  C  C   D   C  C  C  C  C  C  C  C  C  C  C  C   S   S   C  C  C  C   C   C  C   C  C  C  C  C  C  C  C  C   S   S  C  C  C  C  C  C  C  C  C  C  C   D   C  C   D    C  C   D   C  C   C  C  C  C  C   S  C  C   C   D    D   C  C   C  C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  C  C  C  C  C  C  C   C  C  C  C  S   C   D    C  C  C  C  C  C   C  C  C  C  C  C  C  C  C   C  C   S  S  C   I    I    S   S  C  C  C  S  S   C   C  C  C   C  C  C  C  C  C  C  C  C  C   C   D    S   C  C  C  C   C  C  C  C  S   S  C   C    D    S    S   S    C   S    S   C   C  C  C  C   C  C  C   D   S  C  C  C   C  S  C  C  C  C  C  C  C  C  C  C   D   C  C  C   C  C  C   C   C  C   S   C  C  C   S  C  C  C   C  C  C  C  C  C  C   C    I   C   S  C  C  C  C   D    S  C  C  C   D    C  C   C  C   C  C  C   S  C  C  C   C  C  C   C   D   C   S  C  C  C  C  C  C  C   D   C  C  S  C   C  C  C  C  C  C  S  C   S  C  C  C   C  C  C  C   D   C  C   C    I   C  C  C  C   C    D    S   S  C  C   S  C   D   C   C  C  C   C  C   C  C   C   C  C  C  C  C   C  C  C   D    S   C  C  C   S   S  C  C  C
+171 #csid 298 39 4 20
+172 ref  J  O  EU  N  ***  euI  G  iEO  N  I  I  S  EU  S  I  M  iEO  N  euI  G  iEO  N  N  A  N  E  GG  O  k  SS  EO  J  U  S  I  G  I  B  A  R  A  M  N  I  D  A
+172 hyp  J  O  EU  N  euI  euI  G  iEO  N  I  I  S  EU  S  I  M  iEO  N  euI  G  iEO  N  N  A  N  E  GG  O  k  SS  EO  J  U  S  I  G  I  B  A  R  A  M  N  I  D  A
+172 op   C  C   C  C   I    C   C   C   C  C  C  C   C  C  C  C   C   C   C   C   C   C  C  C  C  C   C  C  C   C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C
+172 #csid 45 0 1 0
+173 ref  I  R  EO  Kh  E  G  A  M  S  A  euI  M  A  L  SS  EU  M  EU  L  J  EO  N  A  L  S  U  I  SS  EU  L  J  EO  NG  D  O  R  O  S  EO  NG  J  A  NG  H  E  S   SS  EU  M  N  I  D  A
+173 hyp  I  R  EO  Kh  E  G  A  M  S  A  euI  M  A  L  SS  EU  M  EU  L  J  EO  N  A  L  S  U  I  SS  EU  L  J  EO  NG  D  O  R  O  S  EO  NG  J  A   A  M  E  S  ***  EU  M  N  I  D  A
+173 op   C  C   C   C  C  C  C  C  C  C   C   C  C  C   C   C  C   C  C  C   C  C  C  C  C  C  C   C   C  C  C   C   C  C  C  C  C  C   C   C  C  C   S  S  C  C   D    C  C  C  C  C  C
+173 #csid 50 2 0 1
+174 ref  G  U  NG  N  E  S  EO  N  G  O  NG  H  A  NG  G  oA  G  U  k  JJ  E  S  EO  N  G  O  NG  H  A  NG  I  D  A  R  EU  D  A  N  EU  N  G  EO  S  EU  L  OE  M  I  R  I  M  A  L  SS  EU  M  ***  ***  H  E  J  U  S   I    J   I  A  N  EU  S  iEO  SS  EO  iO
+174 hyp  G  U  NG  N  E  S  EO  N  G  O  NG  H  A  NG  G  oA  G  U  k  JJ  E  S  EO  N  G  O  NG  H  A  NG  I  D  A  R  EU  D  A  N  EU  N  G  EO  S  EU  L  OE  M  I  R  I  M  A  L  SS  EU  M   EU   L   H  E  J  U  S  ***  ***  I  A  N  EU  S  iEO  SS  EO  iO
+174 op   C  C   C  C  C  C   C  C  C  C   C  C  C   C  C   C  C  C  C   C  C  C   C  C  C  C   C  C  C   C  C  C  C  C   C  C  C  C   C  C  C   C  C   C  C   C  C  C  C  C  C  C  C   C   C  C   I    I   C  C  C  C  C   D    D   C  C  C   C  C   C    C   C   C
+174 #csid 70 0 2 2
+175 ref  BB  A  L  L  I
+175 hyp   J  A  L  R  I
+175 op    S  C  C  S  C
+175 #csid 3 2 0 0
+176 ref  D  EU  R  EO   iO
+176 hyp  D  EU  R  EO  ***
+176 op   C   C  C   C   D 
+176 #csid 4 0 0 1
+177 ref  iA  G  U
+177 hyp   A  G  U
+177 op    S  C  C
+177 #csid 2 1 0 0
+178 ref  I  ***  iA  G  I
+178 hyp  I   J    A  G  I
+178 op   C   I    S  C  C
+178 #csid 3 1 1 0
+179 ref  ***  iEO  G  I
+179 hyp   J    O   G  I
+179 op    I    S   C  C
+179 #csid 2 1 1 0
+180 ref  ***  iEO  NG  EO
+180 hyp   J    O   NG  EO
+180 op    I    S    C   C
+180 #csid 2 1 1 0
