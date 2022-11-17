@@ -48,15 +48,15 @@ https://user-images.githubusercontent.com/59900689/202401583-00736087-3b9c-4b33-
 - 모국어 영향에 따른 음소 단위의 치환, 삭제, 삽입 오류 패턴 분석
 ![image](https://user-images.githubusercontent.com/59900689/202401684-913efd6e-1268-4bfb-ada7-bcd0a2e0a78d.png)
 
-## 1) English : deletion of <N>
+## 1) English : deletion of N
 ![image](https://user-images.githubusercontent.com/59900689/202402035-ebe560b5-6207-4f51-bb77-9be153c8df96.png)
   
   ![image](https://user-images.githubusercontent.com/59900689/202402448-32325195-784f-4510-b3a0-2c0544f08c8a.png)
 
 
-## 2) English : substitution of <GG> to <G>
+## 2) English : substitution of GG to G
  ![image](https://user-images.githubusercontent.com/59900689/202402610-7aacf73e-e02c-45f2-b4aa-2e954f203d33.png)
   
-## 3) Spanish : insertion of <M>
+## 3) Spanish : insertion of M
   ![image](https://user-images.githubusercontent.com/59900689/202402674-c4e078fe-2d76-4557-a299-01a946fcb7dc.png)
 
