@@ -48,3 +48,7 @@ https://user-images.githubusercontent.com/59900689/202401583-00736087-3b9c-4b33-
 * 발음 오류 패턴 분석
 - 모국어 영향에 따른 음소 단위의 치환, 삭제, 삽입 오류 패턴 분석
 ![image](https://user-images.githubusercontent.com/59900689/202401684-913efd6e-1268-4bfb-ada7-bcd0a2e0a78d.png)
+
+## 1) deletion of <N>
+![image](https://user-images.githubusercontent.com/59900689/202402035-ebe560b5-6207-4f51-bb77-9be153c8df96.png)
+
