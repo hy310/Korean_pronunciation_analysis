@@ -5,16 +5,16 @@
 
 ### * 한국어 음소셋
 <img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202398402-1fe81a92-678e-448b-9ab7-d06c6b4c0a98.png">
-<img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202398523-3d5be012-dd62-4d59-8303-450fb0a64988.png">
+<img width="500" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202398523-3d5be012-dd62-4d59-8303-450fb0a64988.png">
 
 ### * txt 파일로 제공된 데이터
 <img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202400329-14a76622-74ba-4ad1-97fe-e430da7dc2eb.png">
 
 # 데이터 정제
-### 파일 이름으로부터 성별, 연령, 국적, 발화 난이도, 단락/문장/단어 를 추출하여 데이터프레임으로 변경
+#### 파일 이름으로부터 성별, 연령, 국적, 발화 난이도, 단락/문장/단어 를 추출하여 데이터프레임으로 변경
 <img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202400837-c4b4b4bf-32e3-4d1f-8bf7-f2a6bbc26b49.png">
 
-## 데이터 발화 샘플인 ref, 정답 음소 ans, 음소인식기를 돌린 결과 음소 rec 에 대한 분석으로 CSID 추출 
+#### 데이터 발화 샘플인 ref, 정답 음소 ans, 음소인식기를 돌린 결과 음소 rec 에 대한 분석으로 CSID 추출 
 - correct, substitution, insertion, deletion
 <img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202401185-3cb2648d-25cd-494e-beb5-47170efcfd87.png">
 <img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202401224-ef0a2976-ae47-491a-a7d2-cd62aec27394.png">
