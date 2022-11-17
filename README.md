@@ -4,7 +4,7 @@
 #### Chinese, English, Spanish 의 L1 외국인들의 한국어 발음 오류 패턴을 분석하였습니다.
 
 ### * 한국어 음소셋
-<img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202398402-1fe81a92-678e-448b-9ab7-d06c6b4c0a98.png")
+<img width="715" alt="제목 없음" src="https://user-images.githubusercontent.com/59900689/202398402-1fe81a92-678e-448b-9ab7-d06c6b4c0a98.png">
 ![image](https://user-images.githubusercontent.com/59900689/202398523-3d5be012-dd62-4d59-8303-450fb0a64988.png)
 
 ### * txt 파일로 제공된 데이터
